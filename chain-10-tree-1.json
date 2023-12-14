@@ -93,13 +93,11 @@
         "responsibilities": [
           {
             "link": "",
-            "label": "Develop community infrastructure",
-            "description": "Develop a strong contributor community infrastructure around Hats Protocol"
+            "label": "Develop a strong contributor community infrastructure around Hats Protocol"
           },
           {
             "link": "",
-            "label": "Develop network effects",
-            "description": "Develop sticky network effects associated with the canonical version of the protocol"
+            "label": "Develop sticky network effects associated with the canonical version of the protocol"
           },
           {
             "link": "",
@@ -109,57 +107,39 @@
         "authorities": [
           {
             "link": "",
-            "label": "Collectively determine how to fulfill responsibilities",
-            "description": "Make decisions on potential actions relating to its responsibilities",
-            "gate": ""
-          },
-          {
-            "link": "https://admin.daohaus.fun/#/molochv3/0xa/0xcf4b2e60273da3718fd16ee0d4cb176247ecc28a/proposals",
-            "label": "Execute protoDAO proposals",
-            "description": "",
-            "gate": ""
+            "label": "Make decisions on potential actions relating to its responsibilities"
           },
           {
             "link": "",
-            "label": "Curate the Hats Ecosystem content",
-            "description": "Content includes: Hats Awesome list, would-be-awesome list, content, and meeting agendas",
-            "gate": ""
+            "label": "Execute protoDAO proposals"
           },
           {
             "link": "",
-            "label": "Maintain shared Hats Ecosystem coordination platforms",
-            "description": "Coordination platforms include: the Hats Community Charmverse, Wiki, and Forum",
-            "gate": ""
+            "label": "Curate the Hats Awesome list, would-be-awesome list, content, and meeting agendas"
           },
           {
             "link": "",
-            "label": "Create specific hats to empower Steward contributions",
-            "description": "Create hats that grant Stewards the requisite authorities to accomplish their desired contributions",
-            "gate": ""
+            "label": "Maintain the Hats Community Charmverse, Wiki, and Forum"
           },
           {
             "link": "",
-            "label": "Endorse and publish Hats Ecosystem Data Standards",
-            "description": "Includes a schema for the details field of hats that can be used across multiple interoperable front-ends",
-            "gate": ""
+            "label": "Create hats that grant Stewards the requisite authorities to accomplish their desired contributions"
+          },
+          {
+            "link": "",
+            "label": "Endorse / publish a schema as an official Hats Ecosystem Data Standard"
           },
           {
             "link": "https://docs.hatsprotocol.xyz/for-developers/hats-modules/building-hats-modules/modules-registry",
-            "label": "Maintain the Hats Modules Registry curation mechanism",
-            "description": "Define and approve and update the mechanism for curation of items on the Hats Modules Registry",
-            "gate": ""
+            "label": "Define and approve and update the mechanism for curation of items on the Hats Module Registry"
           },
           {
             "link": "https://docs.hatsprotocol.xyz/for-developers/hats-modules/building-hats-modules/modules-registry",
-            "label": "Curate the Hats Modules Registry",
-            "description": "",
-            "gate": ""
+            "label": "Curate the Hats Module Registry"
           },
           {
             "link": "",
-            "label": "Endorse and publish official Hats events",
-            "description": "",
-            "gate": ""
+            "label": "Endorse / publish an event as an official Hats Event"
           }
         ],
         "guilds": [],
@@ -195,19 +175,20 @@
       "data": {
         "name": "Hats Community Admin",
         "description": "This hat is to be worn only by Hatter contracts to facilitate minting and/or claiming of its child hats",
-        "responsibilities": [],
+        "responsibilities": [
+          {
+            "link": "",
+            "label": "n/a"
+          },
+          {
+            "link": "",
+            "label": "ClaimsHatter: Making Community Member hats claimable with agreement"
+          }
+        ],
         "authorities": [
           {
             "link": "",
-            "label": "Enable claiming for the Community Member hat",
-            "description": "",
-            "gate": ""
-          },
-          {
-            "label": "Enable claiming for the Active Contributor hat",
-            "link": "",
-            "gate": "",
-            "description": ""
+            "label": "Admin authority over Community Member and Active Contributor hats"
           }
         ],
         "guilds": [],
@@ -343,39 +324,26 @@
         "description": "The Hats Community Member Hat signifies participation in the Hats Community, and gives the wearer access to the Hats Protocol Charmverse space and the Hats Community Telegram channel.\n\n[Claim the Community Member Hat here](https://hatsprotocol.deform.cc/community) with agreement of the [Hats Community Agreements and Code of Conduct](https://app.charmverse.io/hats-protocol/page-5790577709721176)",
         "responsibilities": [
           {
-            "link": "http://community.hatsprotocol.xyz/",
-            "label": "Follow Community Agreements",
-            "description": "Conduct yourself in a manner that is consistent with the Hats Community Agreements and Code of Conduct, which you signed in order to claim this hat"
+            "link": "https://app.charmverse.io/hats-protocol/page-5790577709721176",
+            "label": "Conduct yourself in a manner that is consistent with the Hats Community Agreements and Code of Conduct"
           }
         ],
         "authorities": [
           {
             "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxODUxMjg4MjQy",
-            "label": "Access to the Hats Community Telegram group",
-            "description": "Read & write access in the Hats Community, Season 1 Telegram group",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreig4c6wczcswoxhsvejlk47mnyfcwi6jch3sknfh6cwtootz7vag6a"
+            "label": "Telegram: Read & write access in the Hats Community Telegram group"
           },
           {
             "link": "https://app.charmverse.io/join?domain=hats-protocol",
-            "label": "Read access on the Hats Protocol Charmverse",
-            "description": "",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreifreanzjso63nvt2xvl53bueyzntb3smn3coplet3ixldqbgdffl4"
+            "label": "Charmverse & Wiki: Read & comment access on the Hats Protocol Charmverse & Wiki"
           },
           {
             "link": "https://forum.hatsprotocol.xyz",
-            "label": "Access to the Hats Protcol Forum",
-            "description": "For more information about the forum, see this post: https://forum.hatsprotocol.xyz/t/welcome-to-hats-protocol-community-forum/",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreiejw6ezvy6ubyvuxwzvkcdxry3fbxlh7q6ji7ujo5cdtrzw7ati5a"
+            "label": "Forum: Read & write access in the Hats Forum"
           },
           {
             "link": "",
-            "label": "Access to Hats Town Hall and Deep Dive meetings",
-            "description": "These typically happen on Zoom and are published on a shared Hats Protocol Ecosystem calendar and announced in the community telegram",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreiamhr2lnthzakdw4t5jkmbu4xk6yb7xy47ygr5njgtt4i2miysbom"
+            "label": "Meetings: Invited to join Hats Town Halls and Deep Dives"
           }
         ],
         "guilds": [],
@@ -390,7 +358,7 @@
           ]
         },
         "toggle": {
-          "manual": true,
+          "manual": false,
           "criteria": []
         }
       }
@@ -425,50 +393,37 @@
         "responsibilities": [
           {
             "link": "",
-            "label": "Follow Community Agreements",
-            "description": "The Hats Active Contributor hat inherits the responsibilities of the Hats Community Member hat"
+            "label": "The Hats Active Contributor hat inherits the responsibilities of the Hats Community Member hat"
           },
           {
             "link": "",
-            "label": "Participate in shared communications channels",
-            "description": "Track and participate actively in the Hats Community Telegram channel"
+            "label": "Track and participate actively in the Hats Community Telegram channel"
           },
           {
             "link": "",
-            "label": "Participate in Town Halls",
-            "description": "Participate in Town Halls when possible and review the notes if/when you cannot make it"
+            "label": "Participate in Town Halls when possible and review the notes if/when you cannot make it"
           },
           {
             "link": "https://app.charmverse.io/hats-protocol/page-0225506388762724",
-            "label": "Record contributions",
-            "description": "Record contributions as appropriate using the Hats contribution tracking system"
+            "label": "Record contributions as appropriate using the Hats contribution tracking system"
           }
         ],
         "authorities": [
           {
             "link": "",
-            "label": "Be a great Hats Community Member",
-            "description": "The Hats Active Contributor hat inherits the authorities of the Hats Community Member hat",
-            "gate": ""
+            "label": "The Hats Active Contributor hat inherits the authorities of the Hats Community Member hat"
           },
           {
             "link": "https://app.charmverse.io/hats-protocol/page-0225506388762724",
-            "label": "Earn protoRep",
-            "description": "Eligible to receive Hats protoRep based on the significance of contributions over the course of a season",
-            "gate": ""
+            "label": "Eligibility to receive Hats protoRep based on the significance of contributions over the course of a season"
           },
           {
             "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxODQwMDc2MzM4",
-            "label": "Access to the Hats Contributors Telegram group",
-            "description": "",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreig4c6wczcswoxhsvejlk47mnyfcwi6jch3sknfh6cwtootz7vag6a"
+            "label": "Telegram: Access to the Hats Contributors Telegram group"
           },
           {
-            "link": "https://hatsprotocol.deform.cc/stewardapplication/",
-            "label": "Eligible to apply to be a protoDAO Steward",
-            "description": "Eligible to apply to become a steward of the protoDAO for the following Season (applications open at the midpoint of each Season)",
-            "gate": ""
+            "link": "",
+            "label": "Eligibility to apply to become a steward of the protoDAO for the following Season (applications open at the midpoint of each Season)"
           }
         ],
         "guilds": [],
@@ -536,51 +491,37 @@
         "responsibilities": [
           {
             "link": "",
-            "label": "Declare seasonal contribution intentions",
-            "description": "Declare your intentions for how you intend to contribute to Hats Protocol and/or the Hats protoDAO for the coming Season"
+            "label": "Declare your intentions for how you intend to contribute to Hats Protocol and/or the Hats protoDAO for the coming Season"
           },
           {
             "link": "",
-            "label": "Attend Steward meetings",
-            "description": "Attending at least 2/3 of the protoDAO Season Launch Convenings and Steward Council Meetings each season"
+            "label": "Attending at least 2/3 of the protoDAO Season Launch Convenings and Steward Council Meetings each season"
           },
           {
             "link": "",
-            "label": "Participate in discussion and vote on protoDAO proposals",
-            "description": "Meaningfully participate in debate and discussion in, and/or vote on, at least 60% of protoDAO proposals"
+            "label": "Meaningfully participate in debate and discussion in, and/or vote on, at least 60% of protoDAO proposals"
           },
           {
             "link": "",
-            "label": "Participate in the Hats protoDAO Telegram channel",
-            "description": "Track and participate actively in the Hats protoDAO Telegram channel"
+            "label": "Track and participate actively in the Hats protoDAO Telegram channel"
           },
           {
             "link": "",
-            "label": "Participate in protoDAO Gov Week",
-            "description": "Participate in protoDAO Gov Week in the last week of the Season. The specific responsibilities of the week include: completing the seasonal Contribution Recognition & Rewards survey; completing the protoDAO sensemaking survey; and reviewing any open protoDAO proposals) "
+            "label": "Participate in protoDAO Gov Week in the last week of the Season. The specific responsibilities of the week include: completing the seasonal Contribution Recognition & Rewards survey; completing the protoDAO sensemaking survey; and reviewing any open protoDAO proposals) "
           }
         ],
         "authorities": [
           {
             "link": "https://app.charmverse.io/join?domain=hats-protocol",
-            "label": "Write access on the Hats Protocol Charmverse",
-            "description": "",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreifreanzjso63nvt2xvl53bueyzntb3smn3coplet3ixldqbgdffl4"
+            "label": "Charmverse & Wiki: Write access on the Hats Protocol Charmverse & Wiki"
           },
           {
             "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxODQwMDc2MzM4",
-            "label": "Access to the Hats Contributors Telegram group",
-            "description": "",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreig4c6wczcswoxhsvejlk47mnyfcwi6jch3sknfh6cwtootz7vag6a"
+            "label": "Telegram: Access to the Hats Contributors Telegram group"
           },
           {
             "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxODA2Njg1MTIx",
-            "label": "Access to the Hats Stewards Telegram group",
-            "description": "",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreig4c6wczcswoxhsvejlk47mnyfcwi6jch3sknfh6cwtootz7vag6a"
+            "label": "Telegram: Access to the Hats Stewards Telegram group"
           },
           {
             "link": "",
@@ -592,20 +533,15 @@
           },
           {
             "link": "",
-            "label": "Curation of external Hats content",
-            "description": "External Hats content includes blog posts and social media posts",
-            "gate": ""
+            "label": "Curation of external Hats content including blog posts and social media posts"
           },
           {
             "link": "",
             "label": "Invitations to seasonal Hats protoDAO convenings"
           },
           {
-            "link": "https://admin.daohaus.fun/#/molochv3/0xa/0xcf4b2e60273da3718fd16ee0d4cb176247ecc28a/proposals",
-            "label": "Create and vote on proposals for the Hats protoDAO",
-            "description": "Create, vote on, and execute proposals for the Hats protoDAO",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreia4ronixjgx5c6kgr2aoolxyzercn76ytglpwv5xr24rkqr4ai7w4"
+            "link": "",
+            "label": "Create, vote on, and execute proposals for the Hats protoDAO"
           }
         ],
         "guilds": [],
@@ -628,7 +564,7 @@
           ]
         },
         "toggle": {
-          "manual": true,
+          "manual": false,
           "criteria": []
         }
       }
@@ -690,18 +626,15 @@
         "responsibilities": [
           {
             "link": "",
-            "label": "Track and assess contributions",
-            "description": "Tracking and assessing the contributions of community members"
+            "label": "The Hats Community Coordinator hat inherits the responsibilities of the Hats Community Member hat"
           },
           {
             "link": "",
-            "label": "Proposing Active Contributor hat wearers",
-            "description": "Recommending and proposing the granting of Active Contributor hats to those who are assessed as making active, meaningful contributions to Hats, as well as the revocation of Active Contributor hats for those who have not been actively contributing over a reasonable time period"
+            "label": "Tracking and assessing the contributions of community members"
           },
           {
             "link": "",
-            "label": "Interview Steward nominees",
-            "description": "Interviewing Steward nominees to assess fit and readiness to hold the role of Steward"
+            "label": "Recommending and proposing the granting of Active Contributor hats to those who are assessed as making active, meaningful contributions to Hats, as well as the revocation of Active Contributor hats for those who have not been actively contributing over a reasonable time period"
           },
           {
             "link": "",
@@ -711,9 +644,7 @@
         "authorities": [
           {
             "link": "",
-            "label": "Read access for Community form submissions",
-            "description": "Read access for Contributor Submission database and Community hat-wearer form submissions",
-            "gate": ""
+            "label": "Read access for Contributor Submission database and Community hat-wearer form submissions"
           }
         ],
         "guilds": [],
@@ -751,26 +682,21 @@
         "responsibilities": [
           {
             "link": "",
-            "label": "Address code of conduct violation submissions",
-            "description": "Addressing code of conduct violation submissions in a timely manner (within 1 week)"
+            "label": "Addressing code of conduct violation submissions in a timely manner (within 1 week)"
           },
           {
             "link": "",
-            "label": "Resolve disputes between protoDAO members",
-            "description": "Resolving disputes between protoDAO members if called upon"
+            "label": "Resolving disputes between protoDAO members if called upon"
           },
           {
             "link": "",
-            "label": "Manage hat revocation disputes and appeals",
-            "description": "Hearing and making judgments on appeals regarding Hat revocation disputes"
+            "label": "Hearing and making judgments on appeals regarding Hat revocation disputes"
           }
         ],
         "authorities": [
           {
             "link": "",
-            "label": "Vote on dispute proposals",
-            "description": "Vote on proposals related to relevant disputes to which the arbitrator has been selected",
-            "gate": ""
+            "label": "Vote on proposals related to relevant disputes to which the arbitrator has been selected"
           }
         ],
         "guilds": [],
@@ -817,23 +743,19 @@
         "responsibilities": [
           {
             "link": "",
-            "label": "Progressively decentralize this role",
-            "description": "Supporting the progressive decentralization of this role by identifying the more specific responsibilities associated with each of the high-level responsibilities outlined below"
+            "label": "Supporting the progressive decentralization of this role by identifying the more specific responsibilities associated with each of the high-level responsibilities outlined below"
           },
           {
             "link": "",
-            "label": "Facilitate protoDAO meetings",
-            "description": "Facilitation: guiding the Hats Community and protoDAO members through group processes to find common ground and collaborate with one another. Facilitators design and lead calls and convenings, hold space for different points of view, and help conversations flow."
+            "label": "Facilitation: guiding the Hats Community and protoDAO members through group processes to find common ground and collaborate with one another. Facilitators design and lead calls and convenings, hold space for different points of view, and help conversations flow."
           },
           {
             "link": "",
-            "label": "Weave relationships between protoDAO members",
-            "description": "Weaving: fostering new connections and deepening relationships. Weavers engage with participants to gather input, introduce participants to each other to inspire self-organization, and build bridges with new parts of the ecosystem to help the network grow."
+            "label": "Weaving: fostering new connections and deepening relationships. Weavers engage with participants to gather input, introduce participants to each other to inspire self-organization, and build bridges with new parts of the ecosystem to help the network grow."
           },
           {
             "link": "",
-            "label": "Manage protoDAO operations and internal systems",
-            "description": "Operations: organizing the protoDAO’s internal systems, mechanisms, and structures to enable participants to engage effectively, share information, and advance collective work. Operators establish and maintain protoDAO operations, support knowledge management, and provide back-of-the-house assistance for protoDAO projects and workstreams."
+            "label": "Operations: organizing the protoDAO’s internal systems, mechanisms, and structures to enable participants to engage effectively, share information, and advance collective work. Operators establish and maintain protoDAO operations, support knowledge management, and provide back-of-the-house assistance for protoDAO projects and workstreams."
           }
         ],
         "authorities": [
@@ -843,9 +765,7 @@
           },
           {
             "link": "",
-            "label": "Admin access in protoDAO systems",
-            "description": "Admin authorities for protoDAO communication channels, workspaces, and tools, including Telegram, Charmverse, Snapshot, Coordinape, Zoom, and Google Workspaces",
-            "gate": ""
+            "label": "Admin authorities for protoDAO communication channels, workspaces, and tools, including Telegram, Charmverse, Snapshot, Coordinape, Zoom, and Google Workspaces"
           }
         ],
         "guilds": [],
@@ -881,38 +801,29 @@
         "responsibilities": [
           {
             "link": "https://github.com/Hats-Protocol/modules-registry#module-curation-rubric",
-            "label": "Review Registry repo submissions",
-            "description": "Review submissions and modification requests in accordance with the Curation Rubric"
+            "label": "Review submissions and modification requests in accordance with the Curation Rubric."
           },
           {
             "link": "https://github.com/Hats-Protocol/modules-registry#curation-cadence",
-            "label": "Respond within the Curation Cadence",
-            "description": "Review submissions and modification requests in accordance with the Curation Cadence"
+            "label": "Review submissions and modification requests in accordance with the Curation Cadence"
           },
           {
             "link": "https://github.com/Hats-Protocol/modules-registry",
-            "label": "Uphold the standard of safety and usability"
+            "label": "Uphold the standard of safety and usability for the Registry."
           },
           {
             "link": "",
-            "label": "Make improvement recommendations",
-            "description": "Provide input to the Module Curation Mechanism Committee on ways to improve the Registry and curation mechanism."
+            "label": "Provide input to the Module Curation Mechanism Committee on ways to improve the Registry and curation mechanism."
           }
         ],
         "authorities": [
           {
             "link": "https://github.com/Hats-Protocol/modules-registry",
-            "label": "Approve module submission PRs",
-            "description": "Approve module submission PRs in the modules-registry repository.",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreignd5laoozl7ykl6yef4erhx7i5gujv4a5s2qrqoxyrxubr6rxeva"
+            "label": "Approve module submission PRs in the modules-registry repository."
           },
           {
             "link": "",
-            "label": "Merge PRs when approved by 2 or more Curators",
-            "description": "",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreignd5laoozl7ykl6yef4erhx7i5gujv4a5s2qrqoxyrxubr6rxeva"
+            "label": "Merge PRs when approved by 2 or more Curators."
           }
         ],
         "guilds": [],
@@ -948,36 +859,25 @@
         "responsibilities": [
           {
             "link": "https://forum.hatsprotocol.xyz/t/discussion-modules-registry-curation-mechanism/63#h-2-design-goals-considerations-and-trade-offs-2",
-            "label": "Maintain the Registry and curation mechanism",
-            "description": "Ensure the Registry and curation mechanism meet design goals and improve over time."
+            "label": "Ensure the Registry and curation mechanism meet design goals and improve over time."
           },
           {
             "link": "",
-            "label": "Propose new mechanisms to improve Registry curation",
-            "description": "Investigate, develop and propose new mechanisms to improve Registry curation and foster a healthy ecosystem of Hats Modules."
+            "label": "Investigate, develop and propose new mechanisms to improve Registry curation and foster a healthy ecosystem of Hats Modules."
           }
         ],
         "authorities": [
           {
             "link": "https://github.com/Hats-Protocol/modules-registry#module-curation-rubric",
-            "label": "Approve PRs to the submission schema",
-            "description": "Approve PRs to change the submission schema in the modules-registry repository.",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreignd5laoozl7ykl6yef4erhx7i5gujv4a5s2qrqoxyrxubr6rxeva"
+            "label": "Approve PRs to change the submission schema in the modules-registry repository."
           },
           {
             "link": "https://github.com/Hats-Protocol/modules-registry#curation-cadence",
-            "label": "Approve PRs to the curation cadence",
-            "description": "Approve PRs to change the curation cadence in the modules-registry repository.",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreignd5laoozl7ykl6yef4erhx7i5gujv4a5s2qrqoxyrxubr6rxeva"
+            "label": "Approve PRs to change the curation cadence in the modules-registry repository."
           },
           {
             "link": "",
-            "label": "Merge PRs when approved by 2 or more Managers",
-            "description": "",
-            "gate": "",
-            "imageUrl": "ipfs://bafkreignd5laoozl7ykl6yef4erhx7i5gujv4a5s2qrqoxyrxubr6rxeva"
+            "label": "At least 2 Managers must approve a PR before it can be merged."
           }
         ],
         "guilds": [],
