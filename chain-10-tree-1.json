@@ -195,16 +195,7 @@
       "data": {
         "name": "Hats Community Admin",
         "description": "This hat is to be worn only by Hatter contracts to facilitate minting and/or claiming of its child hats",
-        "responsibilities": [
-          {
-            "link": "",
-            "label": "n/a"
-          },
-          {
-            "link": "",
-            "label": "ClaimsHatter: Making Community Member hats claimable with agreement"
-          }
-        ],
+        "responsibilities": [],
         "authorities": [
           {
             "link": "",
@@ -704,7 +695,7 @@
           },
           {
             "link": "",
-            "label": "Proposing Active Contributor hats wearers",
+            "label": "Proposing Active Contributor hat wearers",
             "description": "Recommending and proposing the granting of Active Contributor hats to those who are assessed as making active, meaningful contributions to Hats, as well as the revocation of Active Contributor hats for those who have not been actively contributing over a reasonable time period"
           },
           {
@@ -891,7 +882,7 @@
           },
           {
             "link": "https://github.com/Hats-Protocol/modules-registry#curation-cadence",
-            "label": "Respond to submissions within the Curation Cadence",
+            "label": "Respond within the Curation Cadence",
             "description": "Review submissions and modification requests in accordance with the Curation Cadence"
           },
           {
@@ -908,7 +899,7 @@
           {
             "link": "https://github.com/Hats-Protocol/modules-registry",
             "label": "Approve module submission PRs",
-            "description": "Approve module submission PRs in the modules-registry repository."
+            "description": "Approve module submission PRs in the modules-registry repository.",
             "gate": "",
             "imageUrl": "ipfs://bafkreignd5laoozl7ykl6yef4erhx7i5gujv4a5s2qrqoxyrxubr6rxeva"
           },
