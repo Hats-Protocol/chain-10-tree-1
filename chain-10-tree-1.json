@@ -195,7 +195,16 @@
       "data": {
         "name": "Hats Community Admin",
         "description": "This hat is to be worn only by Hatter contracts to facilitate minting and/or claiming of its child hats",
-        "responsibilities": [],
+        "responsibilities": [
+          {
+            "link": "",
+            "label": "n/a"
+          },
+          {
+            "link": "",
+            "label": "ClaimsHatter: Making Community Member hats claimable with agreement"
+          }
+        ],
         "authorities": [
           {
             "link": "",
@@ -390,7 +399,7 @@
           ]
         },
         "toggle": {
-          "manual": false,
+          "manual": true,
           "criteria": []
         }
       }
@@ -628,7 +637,7 @@
           ]
         },
         "toggle": {
-          "manual": false,
+          "manual": true,
           "criteria": []
         }
       }
@@ -702,6 +711,10 @@
             "link": "",
             "label": "Interview Steward nominees",
             "description": "Interviewing Steward nominees to assess fit and readiness to hold the role of Steward"
+          },
+          {
+            "link": "",
+            "label": "Interviewing Steward nominees to assess fit and readiness to hold the role of Steward"
           }
         ],
         "authorities": [
