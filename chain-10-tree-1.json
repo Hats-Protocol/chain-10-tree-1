@@ -704,23 +704,19 @@
           },
           {
             "link": "",
-            "label": "Proposing granting and revocation of Active Contributor hats ",
+            "label": "Proposing Active Contributor hats wearers",
             "description": "Recommending and proposing the granting of Active Contributor hats to those who are assessed as making active, meaningful contributions to Hats, as well as the revocation of Active Contributor hats for those who have not been actively contributing over a reasonable time period"
           },
           {
             "link": "",
             "label": "Interview Steward nominees",
             "description": "Interviewing Steward nominees to assess fit and readiness to hold the role of Steward"
-          },
-          {
-            "link": "",
-            "label": "Interviewing Steward nominees to assess fit and readiness to hold the role of Steward"
           }
         ],
         "authorities": [
           {
             "link": "",
-            "label": "Read access for Contributor and Community form submissions",
+            "label": "Read access for Community form submissions",
             "description": "Read access for Contributor Submission database and Community hat-wearer form submissions",
             "gate": ""
           }
@@ -890,29 +886,38 @@
         "responsibilities": [
           {
             "link": "https://github.com/Hats-Protocol/modules-registry#module-curation-rubric",
-            "label": "Review submissions and modification requests in accordance with the Curation Rubric."
+            "label": "Review Registry repo submissions",
+            "description": "Review submissions and modification requests in accordance with the Curation Rubric"
           },
           {
             "link": "https://github.com/Hats-Protocol/modules-registry#curation-cadence",
-            "label": "Review submissions and modification requests in accordance with the Curation Cadence"
+            "label": "Respond to submissions within the Curation Cadence",
+            "description": "Review submissions and modification requests in accordance with the Curation Cadence"
           },
           {
             "link": "https://github.com/Hats-Protocol/modules-registry",
-            "label": "Uphold the standard of safety and usability for the Registry."
+            "label": "Uphold the standard of safety and usability"
           },
           {
             "link": "",
-            "label": "Provide input to the Module Curation Mechanism Committee on ways to improve the Registry and curation mechanism."
+            "label": "Make improvement recommendations",
+            "description": "Provide input to the Module Curation Mechanism Committee on ways to improve the Registry and curation mechanism."
           }
         ],
         "authorities": [
           {
             "link": "https://github.com/Hats-Protocol/modules-registry",
-            "label": "Approve module submission PRs in the modules-registry repository."
+            "label": "Approve module submission PRs",
+            "description": "Approve module submission PRs in the modules-registry repository."
+            "gate": "",
+            "imageUrl": "ipfs://bafkreignd5laoozl7ykl6yef4erhx7i5gujv4a5s2qrqoxyrxubr6rxeva"
           },
           {
             "link": "",
-            "label": "Merge PRs when approved by 2 or more Curators."
+            "label": "Merge PRs when approved by 2 or more Curators",
+            "description": "",
+            "gate": "",
+            "imageUrl": "ipfs://bafkreignd5laoozl7ykl6yef4erhx7i5gujv4a5s2qrqoxyrxubr6rxeva"
           }
         ],
         "guilds": [],
@@ -948,7 +953,7 @@
         "responsibilities": [
           {
             "link": "https://forum.hatsprotocol.xyz/t/discussion-modules-registry-curation-mechanism/63#h-2-design-goals-considerations-and-trade-offs-2",
-            "label": "Maintain and improve the Registry and curation mechanism",
+            "label": "Maintain the Registry and curation mechanism",
             "description": "Ensure the Registry and curation mechanism meet design goals and improve over time."
           },
           {
@@ -969,7 +974,8 @@
             "link": "https://github.com/Hats-Protocol/modules-registry#curation-cadence",
             "label": "Approve PRs to the curation cadence",
             "description": "Approve PRs to change the curation cadence in the modules-registry repository.",
-            "gate": ""
+            "gate": "",
+            "imageUrl": "ipfs://bafkreignd5laoozl7ykl6yef4erhx7i5gujv4a5s2qrqoxyrxubr6rxeva"
           },
           {
             "link": "",
