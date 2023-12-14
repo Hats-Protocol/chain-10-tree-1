@@ -93,11 +93,13 @@
         "responsibilities": [
           {
             "link": "",
-            "label": "Develop a strong contributor community infrastructure around Hats Protocol"
+            "label": "Develop community infrastructure",
+            "description": "Develop a strong contributor community infrastructure around Hats Protocol"
           },
           {
             "link": "",
-            "label": "Develop sticky network effects associated with the canonical version of the protocol"
+            "label": "Develop network effects",
+            "description": "Develop sticky network effects associated with the canonical version of the protocol"
           },
           {
             "link": "",
@@ -107,39 +109,57 @@
         "authorities": [
           {
             "link": "",
-            "label": "Make decisions on potential actions relating to its responsibilities"
+            "label": "Collectively determine how to fulfill responsibilities",
+            "description": "Make decisions on potential actions relating to its responsibilities",
+            "gate": ""
+          },
+          {
+            "link": "https://admin.daohaus.fun/#/molochv3/0xa/0xcf4b2e60273da3718fd16ee0d4cb176247ecc28a/proposals",
+            "label": "Execute protoDAO proposals",
+            "description": "",
+            "gate": ""
           },
           {
             "link": "",
-            "label": "Execute protoDAO proposals"
+            "label": "Curate the Hats Ecosystem content",
+            "description": "Content includes: Hats Awesome list, would-be-awesome list, content, and meeting agendas",
+            "gate": ""
           },
           {
             "link": "",
-            "label": "Curate the Hats Awesome list, would-be-awesome list, content, and meeting agendas"
+            "label": "Maintain shared Hats Ecosystem coordination platforms",
+            "description": "Coordination platforms include: the Hats Community Charmverse, Wiki, and Forum",
+            "gate": ""
           },
           {
             "link": "",
-            "label": "Maintain the Hats Community Charmverse, Wiki, and Forum"
+            "label": "Create specific hats to empower Steward contributions",
+            "description": "Create hats that grant Stewards the requisite authorities to accomplish their desired contributions",
+            "gate": ""
           },
           {
             "link": "",
-            "label": "Create hats that grant Stewards the requisite authorities to accomplish their desired contributions"
-          },
-          {
-            "link": "",
-            "label": "Endorse / publish a schema as an official Hats Ecosystem Data Standard"
+            "label": "Endorse and publish Hats Ecosystem Data Standards",
+            "description": "Includes a schema for the details field of hats that can be used across multiple interoperable front-ends",
+            "gate": ""
           },
           {
             "link": "https://docs.hatsprotocol.xyz/for-developers/hats-modules/building-hats-modules/modules-registry",
-            "label": "Define and approve and update the mechanism for curation of items on the Hats Module Registry"
+            "label": "Maintain the Hats Modules Registry curation mechanism",
+            "description": "Define and approve and update the mechanism for curation of items on the Hats Modules Registry",
+            "gate": ""
           },
           {
             "link": "https://docs.hatsprotocol.xyz/for-developers/hats-modules/building-hats-modules/modules-registry",
-            "label": "Curate the Hats Module Registry"
+            "label": "Curate the Hats Modules Registry",
+            "description": "",
+            "gate": ""
           },
           {
             "link": "",
-            "label": "Endorse / publish an event as an official Hats Event"
+            "label": "Endorse and publish official Hats events",
+            "description": "",
+            "gate": ""
           }
         ],
         "guilds": [],
