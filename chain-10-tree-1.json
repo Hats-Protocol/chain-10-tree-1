@@ -204,7 +204,7 @@
             "gate": ""
           },
           {
-            "label": "Enable claiming for the Active Contributor hat",
+            "label": "Enable claiming for the Contributor hat",
             "link": "",
             "gate": "",
             "description": ""
@@ -352,7 +352,7 @@
           {
             "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxODUxMjg4MjQy",
             "label": "Access to the Hats Community Telegram group",
-            "description": "Read & write access in the Hats Community, Season 1 Telegram group",
+            "description": "Read & write access in the Hats Community Telegram group",
             "gate": "",
             "imageUrl": "ipfs://bafkreig4c6wczcswoxhsvejlk47mnyfcwi6jch3sknfh6cwtootz7vag6a"
           },
@@ -420,13 +420,13 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Hats Active Contributor",
-        "description": "Active Contributors are all those making meaningful contributions to the development of the Hats Protocol ecosystem.",
+        "name": "Hats Contributor",
+        "description": "Contributors are all those making meaningful contributions to the development of the Hats Protocol ecosystem.",
         "responsibilities": [
           {
             "link": "",
             "label": "Follow Community Agreements",
-            "description": "The Hats Active Contributor hat inherits the responsibilities of the Hats Community Member hat"
+            "description": "The Hats Contributor hat inherits the responsibilities of the Hats Community Member hat"
           },
           {
             "link": "",
@@ -439,7 +439,7 @@
             "description": "Participate in Town Halls when possible and review the notes if/when you cannot make it"
           },
           {
-            "link": "https://app.charmverse.io/hats-protocol/page-0225506388762724",
+            "link": "https://app.charmverse.io/hats-protocol/how-to-submit-a-contribution-for-protorep-consideration-23301472932733813",
             "label": "Record contributions",
             "description": "Record contributions as appropriate using the Hats contribution tracking system"
           }
@@ -448,7 +448,7 @@
           {
             "link": "",
             "label": "Be a great Hats Community Member",
-            "description": "The Hats Active Contributor hat inherits the authorities of the Hats Community Member hat",
+            "description": "The Hats Contributor hat inherits the authorities of the Hats Community Member hat",
             "gate": ""
           },
           {
@@ -537,7 +537,7 @@
           {
             "link": "",
             "label": "Declare seasonal contribution intentions",
-            "description": "Declare your intentions for how you intend to contribute to Hats Protocol and/or the Hats protoDAO for the coming Season"
+            "description": "Declare your intentions for how you will contribute to Hats Protocol and/or the Hats protoDAO for the coming Season"
           },
           {
             "link": "",
@@ -686,7 +686,7 @@
       "type": "1.0",
       "data": {
         "name": "Hats Community Coordinator",
-        "description": "Community Coordinators support the growth of the Hats Community by overseeing, making recommendations on, and proposing the granting and revocation of Community Member and Active Contributor hats",
+        "description": "Community Coordinators support the growth of the Hats Community by overseeing, making recommendations on, and proposing the granting and revocation of Community Member and Contributor hats",
         "responsibilities": [
           {
             "link": "",
@@ -695,8 +695,8 @@
           },
           {
             "link": "",
-            "label": "Proposing Active Contributor hat wearers",
-            "description": "Recommending and proposing the granting of Active Contributor hats to those who are assessed as making active, meaningful contributions to Hats, as well as the revocation of Active Contributor hats for those who have not been actively contributing over a reasonable time period"
+            "label": "Propose Contributor hat wearers",
+            "description": "Recommend and propose granting Contributor hats to those who are assessed as making active, meaningful contributions to Hats, as well as the revocation of Contributor hats for those who have not been actively contributing over a reasonable time period"
           },
           {
             "link": "",
