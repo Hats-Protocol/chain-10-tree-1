@@ -203,16 +203,7 @@
       "data": {
         "name": "Hats Community Admin",
         "description": "This hat is to be worn only by Hatter contracts to facilitate minting and/or claiming of its child hats",
-        "responsibilities": [
-          {
-            "link": "",
-            "label": "n/a"
-          },
-          {
-            "link": "",
-            "label": "ClaimsHatter: Making Community Member hats claimable with agreement"
-          }
-        ],
+        "responsibilities": [],
         "authorities": [
           {
             "link": "",
