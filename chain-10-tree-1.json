@@ -357,7 +357,7 @@
           },
           {
             "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxODQwMDc2MzM4",
-            "label": "Access to the Hats Contributors Telegram group",
+            "label": "Access to the Hats protoDAO Telegram group",
             "description": "",
             "gate": "",
             "imageUrl": "ipfs://bafkreig4c6wczcswoxhsvejlk47mnyfcwi6jch3sknfh6cwtootz7vag6a"
@@ -449,7 +449,7 @@
           },
           {
             "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxODQwMDc2MzM4",
-            "label": "Access to the Hats Contributors Telegram group",
+            "label": "Access to the Hats protoDAO Telegram group",
             "description": "",
             "gate": "",
             "imageUrl": "ipfs://bafkreig4c6wczcswoxhsvejlk47mnyfcwi6jch3sknfh6cwtootz7vag6a"
@@ -482,8 +482,8 @@
           {
             "link": "https://admin.daohaus.fun/#/molochv3/0xa/0xcf4b2e60273da3718fd16ee0d4cb176247ecc28a/proposals",
             "label": "Create and vote on proposals for the Hats protoDAO",
-            "description": "Create, vote on, and execute proposals for the Hats protoDAO",
-            "gate": "",
+            "description": "Create, vote on, and execute proposals for the Hats protoDAO\n\nNew Stewards that already have protoREP should make a `reboard()` transaction in the token gate link to convert it to protoVOTEs. \n\nNew Stewards that don't yet have protoREP should make an `onboard()` transaction in the token gate link to receive their starting 100 protoVOTEs.",
+            "gate": "https://optimistic.etherscan.io/address/0xd63ee97de643d2525c5284b8b31b121d472a2b08#writeContract",
             "imageUrl": "ipfs://bafkreia4ronixjgx5c6kgr2aoolxyzercn76ytglpwv5xr24rkqr4ai7w4"
           }
         ],
