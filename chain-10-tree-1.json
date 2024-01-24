@@ -1561,11 +1561,11 @@
       "type": "1.0",
       "data": {
         "name": "Front-End Developer",
-        "description": "Ensuring seamless user experiences, translating DAO functionalities into intuitive designs, and integrating core product loops with the Hats App",
+        "description": "Ensure seamless user experiences, translating designs into front-end functionality, and integrating core product loops with the Hats App",
         "responsibilities": [
           {
-            "label": "Craft UI and interactions in the Hats App",
-            "description": "Craft user-friendly interfaces that facilitate interactions with decentralized organizational structures",
+            "label": "Implement UI and interactions in the Hats App",
+            "description": "Develop user-friendly interfaces based on designs created by the Design hat",
             "link": ""
           }
         ],
