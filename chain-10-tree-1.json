@@ -17,35 +17,9 @@
       "type": "1.0",
       "data": {
         "name": "Haberdasher Labs",
-        "description": "Worn by Haberdasher Labs, Inc., a legal entity (company) contributing to development of Hats Protocol and its ecosystem",
+        "description": "Worn by Haberdasher Labs, Inc., a legal entity (company) contributing to development of Hats Protocol and its ecosystem\n\nhttps://app.charmverse.io/haberdasherlabs",
         "responsibilities": [],
-        "authorities": [
-          {
-            "label": "Resource allocation",
-            "link": "",
-            "gate": "",
-            "description": ""
-          },
-          {
-            "label": "Develop the culture for HL and the protoDAO",
-            "link": "",
-            "gate": "",
-            "description": ""
-          },
-          {
-            "label": "Shared ownership of web2 accounts",
-            "link": "",
-            "gate": "",
-            "description": ""
-          },
-          {
-            "label": "Anything else not mentioned on another hat in this tree",
-            "description": "Everything in the Hats Governance Surface that is not explicitly delegated to another hat in this tree\n",
-            "link": "",
-            "gate": "",
-            "imageUrl": ""
-          }
-        ],
+        "authorities": [],
         "guilds": [
           "hats-protocol"
         ],
