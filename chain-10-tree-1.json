@@ -995,8 +995,8 @@
             "link": ""
           },
           {
-            "label": "Facilitate protoDAO governance",
-            "description": "Manage protoDAO hats, elections, applications, curation processes, proposals, assessments, and GovWeek",
+            "label": "Ensure protoDAO governance runs smoothly",
+            "description": "Includes protoDAO hats, elections, applications, curation processes, proposals, assessments, and GovWeek",
             "link": "https://admin.daohaus.fun/#/molochv3/0xa/0xcf4b2e60273da3718fd16ee0d4cb176247ecc28a/proposals"
           },
           {
@@ -1039,7 +1039,7 @@
             "label": "protoDAO Governance Facilitator",
             "link": "",
             "gate": "",
-            "description": "Admin for protoDAO elections, applications, curation processes, proposals, assessments, and GovWeek"
+            "description": "Manage protoDAO elections, applications, curation processes, proposals, assessments, and GovWeek"
           }
         ],
         "guilds": [],
