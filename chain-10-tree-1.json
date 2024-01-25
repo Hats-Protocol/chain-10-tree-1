@@ -203,7 +203,16 @@
       "data": {
         "name": "Hats Community Admin",
         "description": "This hat is to be worn only by Hatter contracts to facilitate minting and/or claiming of its child hats",
-        "responsibilities": [],
+        "responsibilities": [
+          {
+            "link": "",
+            "label": "n/a"
+          },
+          {
+            "link": "",
+            "label": "ClaimsHatter: Making Community Member hats claimable with agreement"
+          }
+        ],
         "authorities": [
           {
             "link": "",
@@ -240,7 +249,108 @@
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
     "currentSupply": 188,
-    "wearers": [],
+    "wearers": [
+      "0x0040daac32d83c78546ae36da42a496b28ab09e1",
+      "0x0109c7e6604b96af83ca272bcf84645ed29e7154",
+      "0x018e494352a3e68e16d03ed976fd64134bd82e72",
+      "0x020f64f264ab7e90ef24a108c379a796a82175df",
+      "0x03b79c0c1487a68aeabd9aa4ce779dad77855f52",
+      "0x03f33bb5e7ca4fee122b1b443cebf2ed265c434a",
+      "0x03f7a3fd58b090abe577651fb92fb4789826191e",
+      "0x051ac9d0442d5c689e6a301bebc82821f42fc93a",
+      "0x05a1ff0a32bc24265bcb39499d0c5d9a6cb2011c",
+      "0x071e1682748679cdef2fe3e1fcfb23b8b9d13a03",
+      "0x088e6beb2bb157940c44440578cf07072eba1cd8",
+      "0x0b06ca5dcc8a10be0951d4e140d4312702b8d0ec",
+      "0x0b5f5a722ac5e8ecedf4da39a656fe5f1e76b34c",
+      "0x0d89421d6eec0a4385f95f410732186a2ab45077",
+      "0x0e11de3e815491b1383d2b9c4f99095c20b5bd90",
+      "0x0ea26051f7657d59418da186137141cea90d0652",
+      "0x0f1d41cc51e97dc9d0cad80dc681777eed3675e3",
+      "0x108c1f6802c6d991fcec033294787c08d718f445",
+      "0x1235ce8f885ccca020740c1fc83b221e693bb5ff",
+      "0x1253594843798ff0fcd7fa221b820c2d3ca58fd5",
+      "0x12c5b6d18536abc4766af3c2612b87eb75ec10d5",
+      "0x1421d52714b01298e2e9aa969e14c9317b3e1cfa",
+      "0x178f420637c6667ba467041dd62d93e39ea1f232",
+      "0x17e33637f6b64e9082ea499481b6e6ebae7eea23",
+      "0x1a9cee6e1d21c3c09fb83a980ea54299f01920cd",
+      "0x1b2c142ae4b9c72d2b8957079563d171b7f72892",
+      "0x1b784725944ee55eb74f41e29d1262a0dd4d9135",
+      "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "0x1d3bf13f8f7a83390d03db5e23a950778e1d1309",
+      "0x1da44dc5bd3ccad7c9de272a58b5507f5bc251fa",
+      "0x1df428833f2c9fb1ef098754e5d710432450d706",
+      "0x1fde40a4046eda0ca0539dd6c77abf8933b94260",
+      "0x1feadfd0e023318da5a0024e28b3a87ca5e5886d",
+      "0x223da87421786dd8960bf2350e6c499bebca64d1",
+      "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+      "0x23db246031fd6f4e81b0814e9c1dc0901a18da2d",
+      "0x2487fc7e019860afbfc7fb16689e421843c777e2",
+      "0x26250d5b0265a9df5f59b9086cab1095254d38b1",
+      "0x26e3a9c84fdb9b7fe33dfd5e8d273d016e4e4fb6",
+      "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "0x289bded2521b51167da31752a5b121a52aa1e4b5",
+      "0x29864e4d1588c4164dee7cc495147ec141f9c9d5",
+      "0x2a045211d7d1167d6f5f5812959fa9613f58df8a",
+      "0x2abec368577257cee4b1197337b5491d4d9ed578",
+      "0x2c2e67a4c5ea3335408406503844d4879c84a9f6",
+      "0x2cbd785ae43f796e29d4f15c5f16502de6292361",
+      "0x2d4ac9c27fffcd87d7fa2619f537c7eb0db96fb7",
+      "0x2da2b7a81f6105a7e82816f1eb058fb5225e6e51",
+      "0x2e29c9750a203eed22c037061f5fd801f6e1429f",
+      "0x2e57674ea14fa08a6dda865dd139ce3924ab5951",
+      "0x327c780114d157bee5780d56d62cfee6d8dc603e",
+      "0x330a1b029a0c41b749b43274c992d535d714bf2c",
+      "0x38958f8b2ae828eca1e2a30c8e931d224cada075",
+      "0x39b8edbc6d6bab985bf03b498166db588c00278e",
+      "0x3b60e31cfc48a9074cd5bebb26c9eaa77650a43f",
+      "0x3c41f941098681bfdb14ed423709cc7c29c1e5e6",
+      "0x3fad8bcd2aea732d02a203c156b19205253f2a06",
+      "0x41383cf67716478188d069ac3c7df0cc706fdf54",
+      "0x422875df5170a421897e6af87d77fc1a78ba2d1c",
+      "0x425df00165fbf11e23060e036ebdfbaf4f0edd20",
+      "0x4284a0e68681052013abeddad6ade212a1b839bd",
+      "0x43804905c02f551ec5420a88005bc66a1baf3ab0",
+      "0x476e2651bf97de8a26e4a05a9c8e00a6efa1390c",
+      "0x48f64de392581170695a74139512bcbc3913c9b3",
+      "0x4b7c0da1c299ce824f55a0190efb13663442fa2c",
+      "0x4e672dafb5388dec42c3e6fbe2477af1bc0ecfce",
+      "0x4f1797977dcd92d7fa7ef01341120225d8f7dae2",
+      "0x503a5161d1c5d9d82bf35a4c80da0c3ad72d9244",
+      "0x50f3941ee0701ed3bc09d35c7e6bb4f7120b4564",
+      "0x516cafd745ec780d20f61c0d71fe258ea765222d",
+      "0x519ce4c129a981b2cbb4c3990b1391da24e8ebf3",
+      "0x54db0e6ba08a705057bab04d68ecd3fd004d0dee",
+      "0x57abda4ee50bb3079a556c878b2c345310057569",
+      "0x5e0936b2d7f151d02813aace33e545b970d9c634",
+      "0x5fd15ef419c907717362fa82b8c364a3959f2bac",
+      "0x5ffd23b1b0350debb17a2cb668929ac5f76d0e18",
+      "0x603185043f3b4e1342b734dfe77c0d3e0297fc7a",
+      "0x62e9d933c4753e3e82d7dbb5411e928aeaf5c98d",
+      "0x645f38c7110c83bd3aff6caef471a90e245a7b85",
+      "0x66ab0bc088212195b0d9e9feb12f3f93ff6f8ff1",
+      "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "0x68f272fcaae074cb33e68d88a32c325ed0df8379",
+      "0x6a024f521f83906671e1a23a8b6c560be7e980f4",
+      "0x6bf505db68719b49e5d9e513ba653d3f0bc4ff65",
+      "0x6c7c3806b3cae601b1d99c017e4592753ba8d41e",
+      "0x6d9ffaede2c6cd9bb48bece230ad589e0e0d981c",
+      "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "0x6dd6934452eb4e6d87b9c874ae0ef83ec3bd5803",
+      "0x6e9f7cb201ae183fa2034141433f81043b822f22",
+      "0x6fe0eca16b70b7e7637d0678254267ff32ea25d9",
+      "0x703fbd74399f71103604e3c7ea9f54cbb43f718a",
+      "0x721ba19c32051fd8e851a74958c52936516c7fdc",
+      "0x7234c36a71ec237c2ae7698e8916e0735001e9af",
+      "0x73186b2a81952c2340c4eb2e74e89869e1183df0",
+      "0x73f9f9a07b14a7018008e05d129f02729131a16a",
+      "0x751077dfd4942aa28985baa850f4c648d241c863",
+      "0x759bace429553bca40645da3283de1a105531b11",
+      "0x77b175d193a19378031f4a81393fc0cbd5cf4079",
+      "0x77c9e49073d9830723195f3788570c2c36c97688"
+    ],
     "adminId": "0x0000000100020001000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafybeigonoruew55ypwpewcf33ikkvcq72abdwjrtbkey3kbjwp7y3yzxy",
     "detailsObject": {
@@ -312,7 +422,54 @@
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
     "currentSupply": 46,
-    "wearers": [],
+    "wearers": [
+      "0x018e494352a3e68e16d03ed976fd64134bd82e72",
+      "0x03f7a3fd58b090abe577651fb92fb4789826191e",
+      "0x051ac9d0442d5c689e6a301bebc82821f42fc93a",
+      "0x0d89421d6eec0a4385f95f410732186a2ab45077",
+      "0x1a9cee6e1d21c3c09fb83a980ea54299f01920cd",
+      "0x1b2c142ae4b9c72d2b8957079563d171b7f72892",
+      "0x1b784725944ee55eb74f41e29d1262a0dd4d9135",
+      "0x1feadfd0e023318da5a0024e28b3a87ca5e5886d",
+      "0x223da87421786dd8960bf2350e6c499bebca64d1",
+      "0x26e3a9c84fdb9b7fe33dfd5e8d273d016e4e4fb6",
+      "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "0x28ddb1f987f1d433eb82eef644b006741977f456",
+      "0x29864e4d1588c4164dee7cc495147ec141f9c9d5",
+      "0x2abec368577257cee4b1197337b5491d4d9ed578",
+      "0x43804905c02f551ec5420a88005bc66a1baf3ab0",
+      "0x4e672dafb5388dec42c3e6fbe2477af1bc0ecfce",
+      "0x51952cc29bc7d44e71ab18757781ae0ef287676d",
+      "0x519ce4c129a981b2cbb4c3990b1391da24e8ebf3",
+      "0x5e0936b2d7f151d02813aace33e545b970d9c634",
+      "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "0x751077dfd4942aa28985baa850f4c648d241c863",
+      "0x759bace429553bca40645da3283de1a105531b11",
+      "0x7a732965df2b9eae85095feef94eab72c36d34c6",
+      "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
+      "0x8760e565273b47195f76a22455ce0b68a11af5b5",
+      "0x8b580433568e521ad351b92b98150c0c65ce69b7",
+      "0xaa6dc9a896874b80e2cd4f4f5e9a1c7c8e8574a2",
+      "0xacb837a57025bb355b8a82826164fd47c6d0c573",
+      "0xb3913390d4f2f7b8b891fd424afbcc559307232a",
+      "0xbec26ffa12c90217943d1b2958f60a821ae6e549",
+      "0xbfc7cae0fad9b346270ae8fde24827d2d779ef07",
+      "0xc689c800a7121b186208ea3b182fab2671b337e7",
+      "0xced09ccfc82b091195bde04e6cd65374518e7b95",
+      "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "0xcff878b6673bcbc3525e2c6432d2e9698738ef34",
+      "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "0xd3bce6934f7433946a416a0344e64a835d957d73",
+      "0xd5fca153769847ef9c3dea17ac0166209dee11f7",
+      "0xdf1064632754674acb1b804f2c65849d016eaf9d",
+      "0xe0c695803a7caeaf66d71cb76ea40f815ae465f2",
+      "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c",
+      "0xec364f4f25af9022353aa5dc4bdacde143f6f327",
+      "0xf01603e1ce9916ba7446b57b8fa975ae9f1c1143",
+      "0xf346100e892553dceb41a927fb668da7b0b7c964",
+      "0xfc5538e1e9814ed6487b407fad7b5710739a1cc2",
+      "0xff8592a0e6acf8975b5b9b6643eb20ad2550ca89"
+    ],
     "adminId": "0x0000000100020001000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafybeiduovnmcacsfkoj3wgeketoipacqhjzco37axs37gpaekemgy3kym",
     "detailsObject": {
@@ -404,7 +561,33 @@
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
     "currentSupply": 25,
-    "wearers": [],
+    "wearers": [
+      "0x018e494352a3e68e16d03ed976fd64134bd82e72",
+      "0x03f33bb5e7ca4fee122b1b443cebf2ed265c434a",
+      "0x03f7a3fd58b090abe577651fb92fb4789826191e",
+      "0x0b06ca5dcc8a10be0951d4e140d4312702b8d0ec",
+      "0x1b2c142ae4b9c72d2b8957079563d171b7f72892",
+      "0x1b784725944ee55eb74f41e29d1262a0dd4d9135",
+      "0x1d3bf13f8f7a83390d03db5e23a950778e1d1309",
+      "0x26e3a9c84fdb9b7fe33dfd5e8d273d016e4e4fb6",
+      "0x2abec368577257cee4b1197337b5491d4d9ed578",
+      "0x327c780114d157bee5780d56d62cfee6d8dc603e",
+      "0x3b60e31cfc48a9074cd5bebb26c9eaa77650a43f",
+      "0x4e672dafb5388dec42c3e6fbe2477af1bc0ecfce",
+      "0x5e0936b2d7f151d02813aace33e545b970d9c634",
+      "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "0x6dd6934452eb4e6d87b9c874ae0ef83ec3bd5803",
+      "0x73186b2a81952c2340c4eb2e74e89869e1183df0",
+      "0x751077dfd4942aa28985baa850f4c648d241c863",
+      "0xaa6dc9a896874b80e2cd4f4f5e9a1c7c8e8574a2",
+      "0xcad05f7d291045285bfee6a89c70af35c5fcc4ec",
+      "0xced09ccfc82b091195bde04e6cd65374518e7b95",
+      "0xd714dd60e22bbb1cbafd0e40de5cfa7bbdd3f3c8",
+      "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+      "0xe0c695803a7caeaf66d71cb76ea40f815ae465f2",
+      "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c",
+      "0xf01603e1ce9916ba7446b57b8fa975ae9f1c1143"
+    ],
     "adminId": "0x0000000100020001000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafkreiegr55d2rxjmejiyvivluzznnxsge2keesnvnjsebojqatjatmbxa",
     "detailsObject": {
@@ -885,12 +1068,12 @@
     "status": true,
     "createdAt": 1689095689,
     "maxSupply": 1,
-    "eligibility": "0xC86Afa78741BaD758422d28ed88A9E9FbF5A00Dd",
+    "eligibility": "0xc86afa78741bad758422d28ed88a9e9fbf5a00dd",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 0,
+    "currentSupply": 1,
     "wearers": [
-      "0x2aBEc368577257cEE4B1197337B5491D4D9ed578"
+      "0x2abec368577257cee4b1197337b5491d4d9ed578"
     ],
     "adminId": "0x0000000100000000000000000000000000000000000000000000000000000000",
     "imageUri": "",
@@ -941,7 +1124,7 @@
     "id": "0x0000000100030001000000000000000000000000000000000000000000000000",
     "status": true,
     "createdAt": 1689095689,
-    "maxSupply": 0,
+    "maxSupply": 1,
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
@@ -952,7 +1135,7 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Ecosystem",
+        "name": "Ecosystem ",
         "description": "",
         "responsibilities": [],
         "authorities": [],
@@ -1101,14 +1284,14 @@
   {
     "id": "0x0000000100030001000300000000000000000000000000000000000000000000",
     "status": true,
-    "createdAt": 0,
+    "createdAt": 1706147091,
     "maxSupply": 1,
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 0,
+    "currentSupply": 1,
     "wearers": [
-      "0x4E672DaFb5388DeC42C3E6FBE2477Af1bC0ECFCe"
+      "0x4e672dafb5388dec42c3e6fbe2477af1bc0ecfce"
     ],
     "adminId": "0x0000000100030001000000000000000000000000000000000000000000000000",
     "imageUri": "",
@@ -1157,7 +1340,7 @@
     "id": "0x0000000100030002000000000000000000000000000000000000000000000000",
     "status": true,
     "createdAt": 1689095689,
-    "maxSupply": 0,
+    "maxSupply": 1,
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
@@ -1168,7 +1351,7 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Technology",
+        "name": "Technology ",
         "description": "",
         "responsibilities": [],
         "authorities": [],
@@ -1365,7 +1548,7 @@
       "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c"
     ],
     "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
-    "imageUri": "ipfs://bafybeicrueqormlmolipbyqqveifwt5goz7yqzbvhryszd3cjqt5gijif4",
+    "imageUri": "ipfs://bafkreidnsz3uw6n2uxmf5wojfatwlm5ri6ueexe5zizd6vdz3v76x64cxy",
     "detailsObject": {
       "type": "1.0",
       "data": {
@@ -1565,7 +1748,7 @@
         "responsibilities": [
           {
             "label": "Implement UI and interactions in the Hats App",
-            "description": "Develop user-friendly interfaces based on designs created by the Design hat",
+            "description": "Develop user-friendly interfaces based on designs created by the Design Lead hat",
             "link": ""
           }
         ],
@@ -1593,13 +1776,15 @@
   {
     "id": "0x0000000100030002000700000000000000000000000000000000000000000000",
     "status": true,
-    "createdAt": 0,
+    "createdAt": 1706147091,
     "maxSupply": 1,
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
     "currentSupply": 0,
-    "wearers": [],
+    "wearers": [
+      "0xEb2ee1250DC8C954dA4efF4DF0E4467A1ca6af6c"
+    ],
     "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafybeicgwjivhxmlvkwsvz6c6pqn5iikkthcxuuw6orhcgvxb26qyal3ii",
     "detailsObject": {
@@ -1659,14 +1844,14 @@
   {
     "id": "0x0000000100030002000800000000000000000000000000000000000000000000",
     "status": true,
-    "createdAt": 0,
+    "createdAt": 1706147091,
     "maxSupply": 1,
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 0,
+    "currentSupply": 1,
     "wearers": [
-      "0x2aBEc368577257cEE4B1197337B5491D4D9ed578"
+      "0x2abec368577257cee4b1197337b5491d4d9ed578"
     ],
     "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafybeibkfvhwoz5zeyxbxc2y724sgpsx6wesysrt6l4npem7zsa2ezasj4",
@@ -1715,7 +1900,7 @@
     "id": "0x0000000100030003000000000000000000000000000000000000000000000000",
     "status": true,
     "createdAt": 1689095689,
-    "maxSupply": 0,
+    "maxSupply": 1,
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
@@ -1726,7 +1911,7 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Strategy",
+        "name": "Strategy ",
         "description": "",
         "responsibilities": [],
         "authorities": [],
@@ -1761,7 +1946,7 @@
       "type": "1.0",
       "data": {
         "name": "Strategy Lead",
-        "description": "",
+        "description": "https://app.charmverse.io/haberdasherlabs/page-3308638635786372",
         "responsibilities": [
           {
             "label": "Synthesis of all workstreams (holding the \"whole\")",
@@ -1807,7 +1992,7 @@
     "id": "0x0000000100030004000000000000000000000000000000000000000000000000",
     "status": true,
     "createdAt": 1689095689,
-    "maxSupply": 0,
+    "maxSupply": 1,
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
@@ -1818,8 +2003,8 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Growth",
-        "description": "",
+        "name": "Growth ",
+        "description": " ",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1843,9 +2028,9 @@
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 1,
+    "currentSupply": 0,
     "wearers": [
-      "0x2abec368577257cee4b1197337b5491d4d9ed578"
+      "0x03f7a3FD58B090Abe577651fb92Fb4789826191e"
     ],
     "adminId": "0x0000000100030004000000000000000000000000000000000000000000000000",
     "imageUri": "",
@@ -1853,7 +2038,7 @@
       "type": "1.0",
       "data": {
         "name": "Growth Lead",
-        "description": "",
+        "description": "https://app.charmverse.io/haberdasherlabs/page-7546008944860245",
         "responsibilities": [
           {
             "label": "Hold the whole of the Growth funnel",
@@ -2123,14 +2308,14 @@
   {
     "id": "0x0000000100030004000700000000000000000000000000000000000000000000",
     "status": true,
-    "createdAt": null,
+    "createdAt": 1706147091,
     "maxSupply": 1,
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 0,
+    "currentSupply": 1,
     "wearers": [
-      "0x2aBEc368577257cEE4B1197337B5491D4D9ed578"
+      "0x2abec368577257cee4b1197337b5491d4d9ed578"
     ],
     "adminId": "0x0000000100030004000000000000000000000000000000000000000000000000",
     "imageUri": "",
@@ -2179,7 +2364,7 @@
     "id": "0x0000000100030005000000000000000000000000000000000000000000000000",
     "status": true,
     "createdAt": 1689095689,
-    "maxSupply": 0,
+    "maxSupply": 1,
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
@@ -2190,7 +2375,7 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Resourcing",
+        "name": "Resourcing ",
         "description": "",
         "responsibilities": [],
         "authorities": [],
@@ -2225,7 +2410,7 @@
       "type": "1.0",
       "data": {
         "name": "Resourcing Lead",
-        "description": "",
+        "description": "https://app.charmverse.io/haberdasherlabs/page-4028881227909913",
         "responsibilities": [
           {
             "label": "Raise funds",
