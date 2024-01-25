@@ -54,10 +54,18 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Haberdashers",
-        "description": "Worn by signers of the Haberdasher Labs Tree multisig\n\nhttps://app.charmverse.io/haberdasherlabs/haberdashers-8624366321089794",
+        "name": "Haberdasher",
+        "description": "Worn by the Co-founders of Haberdasher Labs.\n\nhttps://app.charmverse.io/haberdasherlabs/haberdashers-8624366321089794",
         "responsibilities": [],
-        "authorities": [],
+        "authorities": [
+          {
+            "label": "Signing authority on the Haberdasher Labs Tree multisig",
+            "description": "The Top Hat of this tree is currently worn by a 2/3 multisig (0x58c8854a8e51bdce9f00726b966905fe2719b4d9) consisting of the three wearers of this hat.",
+            "link": "",
+            "gate": "",
+            "imageUrl": ""
+          }
+        ],
         "guilds": [],
         "spaces": [],
         "eligibility": {
@@ -195,7 +203,16 @@
       "data": {
         "name": "Hats Community Admin",
         "description": "This hat is to be worn only by Hatter contracts to facilitate minting and/or claiming of its child hats",
-        "responsibilities": [],
+        "responsibilities": [
+          {
+            "link": "",
+            "label": "n/a"
+          },
+          {
+            "link": "",
+            "label": "ClaimsHatter: Making Community Member hats claimable with agreement"
+          }
+        ],
         "authorities": [
           {
             "link": "",
@@ -231,8 +248,109 @@
     "eligibility": "0xd0929e6ae5406cbee08604de99f83cf2ce52d903",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 170,
-    "wearers": [],
+    "currentSupply": 188,
+    "wearers": [
+      "0x0040daac32d83c78546ae36da42a496b28ab09e1",
+      "0x0109c7e6604b96af83ca272bcf84645ed29e7154",
+      "0x018e494352a3e68e16d03ed976fd64134bd82e72",
+      "0x020f64f264ab7e90ef24a108c379a796a82175df",
+      "0x03b79c0c1487a68aeabd9aa4ce779dad77855f52",
+      "0x03f33bb5e7ca4fee122b1b443cebf2ed265c434a",
+      "0x03f7a3fd58b090abe577651fb92fb4789826191e",
+      "0x051ac9d0442d5c689e6a301bebc82821f42fc93a",
+      "0x05a1ff0a32bc24265bcb39499d0c5d9a6cb2011c",
+      "0x071e1682748679cdef2fe3e1fcfb23b8b9d13a03",
+      "0x088e6beb2bb157940c44440578cf07072eba1cd8",
+      "0x0b06ca5dcc8a10be0951d4e140d4312702b8d0ec",
+      "0x0b5f5a722ac5e8ecedf4da39a656fe5f1e76b34c",
+      "0x0d89421d6eec0a4385f95f410732186a2ab45077",
+      "0x0e11de3e815491b1383d2b9c4f99095c20b5bd90",
+      "0x0ea26051f7657d59418da186137141cea90d0652",
+      "0x0f1d41cc51e97dc9d0cad80dc681777eed3675e3",
+      "0x108c1f6802c6d991fcec033294787c08d718f445",
+      "0x1235ce8f885ccca020740c1fc83b221e693bb5ff",
+      "0x1253594843798ff0fcd7fa221b820c2d3ca58fd5",
+      "0x12c5b6d18536abc4766af3c2612b87eb75ec10d5",
+      "0x1421d52714b01298e2e9aa969e14c9317b3e1cfa",
+      "0x178f420637c6667ba467041dd62d93e39ea1f232",
+      "0x17e33637f6b64e9082ea499481b6e6ebae7eea23",
+      "0x1a9cee6e1d21c3c09fb83a980ea54299f01920cd",
+      "0x1b2c142ae4b9c72d2b8957079563d171b7f72892",
+      "0x1b784725944ee55eb74f41e29d1262a0dd4d9135",
+      "0x1c9f765c579f94f6502acd9fc356171d85a1f8d0",
+      "0x1d3bf13f8f7a83390d03db5e23a950778e1d1309",
+      "0x1da44dc5bd3ccad7c9de272a58b5507f5bc251fa",
+      "0x1df428833f2c9fb1ef098754e5d710432450d706",
+      "0x1fde40a4046eda0ca0539dd6c77abf8933b94260",
+      "0x1feadfd0e023318da5a0024e28b3a87ca5e5886d",
+      "0x223da87421786dd8960bf2350e6c499bebca64d1",
+      "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
+      "0x23db246031fd6f4e81b0814e9c1dc0901a18da2d",
+      "0x2487fc7e019860afbfc7fb16689e421843c777e2",
+      "0x26250d5b0265a9df5f59b9086cab1095254d38b1",
+      "0x26e3a9c84fdb9b7fe33dfd5e8d273d016e4e4fb6",
+      "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "0x289bded2521b51167da31752a5b121a52aa1e4b5",
+      "0x29864e4d1588c4164dee7cc495147ec141f9c9d5",
+      "0x2a045211d7d1167d6f5f5812959fa9613f58df8a",
+      "0x2abec368577257cee4b1197337b5491d4d9ed578",
+      "0x2c2e67a4c5ea3335408406503844d4879c84a9f6",
+      "0x2cbd785ae43f796e29d4f15c5f16502de6292361",
+      "0x2d4ac9c27fffcd87d7fa2619f537c7eb0db96fb7",
+      "0x2da2b7a81f6105a7e82816f1eb058fb5225e6e51",
+      "0x2e29c9750a203eed22c037061f5fd801f6e1429f",
+      "0x2e57674ea14fa08a6dda865dd139ce3924ab5951",
+      "0x327c780114d157bee5780d56d62cfee6d8dc603e",
+      "0x330a1b029a0c41b749b43274c992d535d714bf2c",
+      "0x38958f8b2ae828eca1e2a30c8e931d224cada075",
+      "0x39b8edbc6d6bab985bf03b498166db588c00278e",
+      "0x3b60e31cfc48a9074cd5bebb26c9eaa77650a43f",
+      "0x3c41f941098681bfdb14ed423709cc7c29c1e5e6",
+      "0x3fad8bcd2aea732d02a203c156b19205253f2a06",
+      "0x41383cf67716478188d069ac3c7df0cc706fdf54",
+      "0x422875df5170a421897e6af87d77fc1a78ba2d1c",
+      "0x425df00165fbf11e23060e036ebdfbaf4f0edd20",
+      "0x4284a0e68681052013abeddad6ade212a1b839bd",
+      "0x43804905c02f551ec5420a88005bc66a1baf3ab0",
+      "0x476e2651bf97de8a26e4a05a9c8e00a6efa1390c",
+      "0x48f64de392581170695a74139512bcbc3913c9b3",
+      "0x4b7c0da1c299ce824f55a0190efb13663442fa2c",
+      "0x4e672dafb5388dec42c3e6fbe2477af1bc0ecfce",
+      "0x4f1797977dcd92d7fa7ef01341120225d8f7dae2",
+      "0x503a5161d1c5d9d82bf35a4c80da0c3ad72d9244",
+      "0x50f3941ee0701ed3bc09d35c7e6bb4f7120b4564",
+      "0x516cafd745ec780d20f61c0d71fe258ea765222d",
+      "0x519ce4c129a981b2cbb4c3990b1391da24e8ebf3",
+      "0x54db0e6ba08a705057bab04d68ecd3fd004d0dee",
+      "0x57abda4ee50bb3079a556c878b2c345310057569",
+      "0x5e0936b2d7f151d02813aace33e545b970d9c634",
+      "0x5fd15ef419c907717362fa82b8c364a3959f2bac",
+      "0x5ffd23b1b0350debb17a2cb668929ac5f76d0e18",
+      "0x603185043f3b4e1342b734dfe77c0d3e0297fc7a",
+      "0x62e9d933c4753e3e82d7dbb5411e928aeaf5c98d",
+      "0x645f38c7110c83bd3aff6caef471a90e245a7b85",
+      "0x66ab0bc088212195b0d9e9feb12f3f93ff6f8ff1",
+      "0x67243d6c3c3bdc2f59d2f74ba1949a02973a529d",
+      "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "0x68f272fcaae074cb33e68d88a32c325ed0df8379",
+      "0x6a024f521f83906671e1a23a8b6c560be7e980f4",
+      "0x6bf505db68719b49e5d9e513ba653d3f0bc4ff65",
+      "0x6c7c3806b3cae601b1d99c017e4592753ba8d41e",
+      "0x6d9ffaede2c6cd9bb48bece230ad589e0e0d981c",
+      "0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e",
+      "0x6dd6934452eb4e6d87b9c874ae0ef83ec3bd5803",
+      "0x6e9f7cb201ae183fa2034141433f81043b822f22",
+      "0x6fe0eca16b70b7e7637d0678254267ff32ea25d9",
+      "0x703fbd74399f71103604e3c7ea9f54cbb43f718a",
+      "0x721ba19c32051fd8e851a74958c52936516c7fdc",
+      "0x7234c36a71ec237c2ae7698e8916e0735001e9af",
+      "0x73186b2a81952c2340c4eb2e74e89869e1183df0",
+      "0x73f9f9a07b14a7018008e05d129f02729131a16a",
+      "0x751077dfd4942aa28985baa850f4c648d241c863",
+      "0x759bace429553bca40645da3283de1a105531b11",
+      "0x77b175d193a19378031f4a81393fc0cbd5cf4079",
+      "0x77c9e49073d9830723195f3788570c2c36c97688"
+    ],
     "adminId": "0x0000000100020001000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafybeigonoruew55ypwpewcf33ikkvcq72abdwjrtbkey3kbjwp7y3yzxy",
     "detailsObject": {
@@ -264,7 +382,7 @@
           },
           {
             "link": "https://forum.hatsprotocol.xyz",
-            "label": "Access to the Hats Protcol Forum",
+            "label": "Access to the Hats Protocol Forum",
             "description": "For more information about the forum, see this post: https://forum.hatsprotocol.xyz/t/welcome-to-hats-protocol-community-forum/",
             "gate": "",
             "imageUrl": "ipfs://bafkreiejw6ezvy6ubyvuxwzvkcdxry3fbxlh7q6ji7ujo5cdtrzw7ati5a"
@@ -303,16 +421,54 @@
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 8,
+    "currentSupply": 46,
     "wearers": [
+      "0x018e494352a3e68e16d03ed976fd64134bd82e72",
+      "0x03f7a3fd58b090abe577651fb92fb4789826191e",
+      "0x051ac9d0442d5c689e6a301bebc82821f42fc93a",
+      "0x0d89421d6eec0a4385f95f410732186a2ab45077",
+      "0x1a9cee6e1d21c3c09fb83a980ea54299f01920cd",
+      "0x1b2c142ae4b9c72d2b8957079563d171b7f72892",
       "0x1b784725944ee55eb74f41e29d1262a0dd4d9135",
       "0x1feadfd0e023318da5a0024e28b3a87ca5e5886d",
+      "0x223da87421786dd8960bf2350e6c499bebca64d1",
       "0x26e3a9c84fdb9b7fe33dfd5e8d273d016e4e4fb6",
+      "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
+      "0x28ddb1f987f1d433eb82eef644b006741977f456",
+      "0x29864e4d1588c4164dee7cc495147ec141f9c9d5",
+      "0x2abec368577257cee4b1197337b5491d4d9ed578",
+      "0x43804905c02f551ec5420a88005bc66a1baf3ab0",
+      "0x4e672dafb5388dec42c3e6fbe2477af1bc0ecfce",
+      "0x51952cc29bc7d44e71ab18757781ae0ef287676d",
+      "0x519ce4c129a981b2cbb4c3990b1391da24e8ebf3",
+      "0x5e0936b2d7f151d02813aace33e545b970d9c634",
+      "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "0x751077dfd4942aa28985baa850f4c648d241c863",
+      "0x759bace429553bca40645da3283de1a105531b11",
+      "0x7a732965df2b9eae85095feef94eab72c36d34c6",
+      "0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf",
       "0x8760e565273b47195f76a22455ce0b68a11af5b5",
+      "0x8b580433568e521ad351b92b98150c0c65ce69b7",
+      "0xaa6dc9a896874b80e2cd4f4f5e9a1c7c8e8574a2",
+      "0xacb837a57025bb355b8a82826164fd47c6d0c573",
+      "0xb3913390d4f2f7b8b891fd424afbcc559307232a",
+      "0xbec26ffa12c90217943d1b2958f60a821ae6e549",
       "0xbfc7cae0fad9b346270ae8fde24827d2d779ef07",
       "0xc689c800a7121b186208ea3b182fab2671b337e7",
+      "0xced09ccfc82b091195bde04e6cd65374518e7b95",
+      "0xced608aa29bb92185d9b6340adcbfa263dae075b",
+      "0xcff878b6673bcbc3525e2c6432d2e9698738ef34",
+      "0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9",
+      "0xd3bce6934f7433946a416a0344e64a835d957d73",
+      "0xd5fca153769847ef9c3dea17ac0166209dee11f7",
+      "0xdf1064632754674acb1b804f2c65849d016eaf9d",
+      "0xe0c695803a7caeaf66d71cb76ea40f815ae465f2",
+      "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c",
       "0xec364f4f25af9022353aa5dc4bdacde143f6f327",
-      "0xf346100e892553dceb41a927fb668da7b0b7c964"
+      "0xf01603e1ce9916ba7446b57b8fa975ae9f1c1143",
+      "0xf346100e892553dceb41a927fb668da7b0b7c964",
+      "0xfc5538e1e9814ed6487b407fad7b5710739a1cc2",
+      "0xff8592a0e6acf8975b5b9b6643eb20ad2550ca89"
     ],
     "adminId": "0x0000000100020001000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafybeiduovnmcacsfkoj3wgeketoipacqhjzco37axs37gpaekemgy3kym",
@@ -358,7 +514,7 @@
           },
           {
             "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxODQwMDc2MzM4",
-            "label": "Access to the Hats Contributors Telegram group",
+            "label": "Access to the Hats protoDAO Telegram group",
             "description": "",
             "gate": "",
             "imageUrl": "ipfs://bafkreig4c6wczcswoxhsvejlk47mnyfcwi6jch3sknfh6cwtootz7vag6a"
@@ -404,8 +560,34 @@
     "eligibility": "0xa9cd0cb887ed85e75dcd0c6b36d568d3f9ff727c",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 18,
-    "wearers": [],
+    "currentSupply": 25,
+    "wearers": [
+      "0x018e494352a3e68e16d03ed976fd64134bd82e72",
+      "0x03f33bb5e7ca4fee122b1b443cebf2ed265c434a",
+      "0x03f7a3fd58b090abe577651fb92fb4789826191e",
+      "0x0b06ca5dcc8a10be0951d4e140d4312702b8d0ec",
+      "0x1b2c142ae4b9c72d2b8957079563d171b7f72892",
+      "0x1b784725944ee55eb74f41e29d1262a0dd4d9135",
+      "0x1d3bf13f8f7a83390d03db5e23a950778e1d1309",
+      "0x26e3a9c84fdb9b7fe33dfd5e8d273d016e4e4fb6",
+      "0x2abec368577257cee4b1197337b5491d4d9ed578",
+      "0x327c780114d157bee5780d56d62cfee6d8dc603e",
+      "0x3b60e31cfc48a9074cd5bebb26c9eaa77650a43f",
+      "0x4e672dafb5388dec42c3e6fbe2477af1bc0ecfce",
+      "0x5e0936b2d7f151d02813aace33e545b970d9c634",
+      "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "0x6dd6934452eb4e6d87b9c874ae0ef83ec3bd5803",
+      "0x73186b2a81952c2340c4eb2e74e89869e1183df0",
+      "0x751077dfd4942aa28985baa850f4c648d241c863",
+      "0xaa6dc9a896874b80e2cd4f4f5e9a1c7c8e8574a2",
+      "0xcad05f7d291045285bfee6a89c70af35c5fcc4ec",
+      "0xced09ccfc82b091195bde04e6cd65374518e7b95",
+      "0xd714dd60e22bbb1cbafd0e40de5cfa7bbdd3f3c8",
+      "0xe04885c3f1419c6e8495c33bdcf5f8387cd88846",
+      "0xe0c695803a7caeaf66d71cb76ea40f815ae465f2",
+      "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c",
+      "0xf01603e1ce9916ba7446b57b8fa975ae9f1c1143"
+    ],
     "adminId": "0x0000000100020001000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafkreiegr55d2rxjmejiyvivluzznnxsge2keesnvnjsebojqatjatmbxa",
     "detailsObject": {
@@ -450,7 +632,7 @@
           },
           {
             "link": "https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxODQwMDc2MzM4",
-            "label": "Access to the Hats Contributors Telegram group",
+            "label": "Access to the Hats protoDAO Telegram group",
             "description": "",
             "gate": "",
             "imageUrl": "ipfs://bafkreig4c6wczcswoxhsvejlk47mnyfcwi6jch3sknfh6cwtootz7vag6a"
@@ -483,8 +665,8 @@
           {
             "link": "https://admin.daohaus.fun/#/molochv3/0xa/0xcf4b2e60273da3718fd16ee0d4cb176247ecc28a/proposals",
             "label": "Create and vote on proposals for the Hats protoDAO",
-            "description": "Create, vote on, and execute proposals for the Hats protoDAO",
-            "gate": "",
+            "description": "Create, vote on, and execute proposals for the Hats protoDAO\n\nNew Stewards that already have protoREP should make a `reboard()` transaction in the token gate link to convert it to protoVOTEs. \n\nNew Stewards that don't yet have protoREP should make an `onboard()` transaction in the token gate link to receive their starting 100 protoVOTEs.",
+            "gate": "https://optimistic.etherscan.io/address/0xd63ee97de643d2525c5284b8b31b121d472a2b08#writeContract",
             "imageUrl": "ipfs://bafkreia4ronixjgx5c6kgr2aoolxyzercn76ytglpwv5xr24rkqr4ai7w4"
           }
         ],
@@ -745,8 +927,12 @@
     "eligibility": "0xeb25842011d853650b401163d333cd6ae70d4553",
     "toggle": "0xeb25842011d853650b401163d333cd6ae70d4553",
     "mutable": true,
-    "currentSupply": 0,
-    "wearers": [],
+    "currentSupply": 3,
+    "wearers": [
+      "0x018e494352a3e68e16d03ed976fd64134bd82e72",
+      "0x2abec368577257cee4b1197337b5491d4d9ed578",
+      "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c"
+    ],
     "adminId": "0x0000000100020004000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafkreig2dqdbq437mg3xb4hxbzlely6crcspdzq6rymzevrpghsfpmri5i",
     "detailsObject": {
@@ -812,8 +998,16 @@
     "eligibility": "0xeb25842011d853650b401163d333cd6ae70d4553",
     "toggle": "0xeb25842011d853650b401163d333cd6ae70d4553",
     "mutable": true,
-    "currentSupply": 0,
-    "wearers": [],
+    "currentSupply": 7,
+    "wearers": [
+      "0x018e494352a3e68e16d03ed976fd64134bd82e72",
+      "0x1673169fe4e06c72f85f1fc88fcdcb34e2ad2aed",
+      "0x1b2c142ae4b9c72d2b8957079563d171b7f72892",
+      "0x2abec368577257cee4b1197337b5491d4d9ed578",
+      "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c",
+      "0xf01603e1ce9916ba7446b57b8fa975ae9f1c1143"
+    ],
     "adminId": "0x0000000100020004000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafkreie45ypwwgim6yytelimkmcgrzdqw7sozr3bcdasibuw4vp5xhxici",
     "detailsObject": {
@@ -873,21 +1067,46 @@
     "id": "0x0000000100030000000000000000000000000000000000000000000000000000",
     "status": true,
     "createdAt": 1689095689,
-    "maxSupply": 5,
-    "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "maxSupply": 1,
+    "eligibility": "0xc86afa78741bad758422d28ed88a9e9fbf5a00dd",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 0,
-    "wearers": [],
+    "currentSupply": 1,
+    "wearers": [
+      "0x2abec368577257cee4b1197337b5491d4d9ed578"
+    ],
     "adminId": "0x0000000100000000000000000000000000000000000000000000000000000000",
     "imageUri": "",
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Haberdasher Labs Hatter",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-5053000529546383",
-        "responsibilities": [],
-        "authorities": [],
+        "name": "CEO",
+        "description": "Haberdasher Labs is temporarily transitioning into a structure with a single hierarchical leader for the purpose of and during the time of fundraising.\n\nThis role is held accountable to [established agreements and intentions](https://app.charmverse.io/haberdasherlabs/ceo-952399732884559) both by the Haberdashers and by a majority of current team members.",
+        "responsibilities": [
+          {
+            "label": "Raise funds",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Set key priorities",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Honor our team's intentions",
+            "description": "",
+            "link": ""
+          }
+        ],
+        "authorities": [
+          {
+            "label": "Solely direct team resources",
+            "link": "",
+            "gate": "",
+            "description": "Solely direct the resources of the team toward the complicated goal of fundraising over a constrained time period:\n- Time and attention\n- Communications\n- Support from broader network"
+          }
+        ],
         "guilds": [],
         "spaces": [],
         "eligibility": {
@@ -912,12 +1131,12 @@
     "currentSupply": 0,
     "wearers": [],
     "adminId": "0x0000000100030000000000000000000000000000000000000000000000000000",
-    "imageUri": "",
+    "imageUri": "ipfs://bafkreifcbxsfwxz43c26j4esjojevrwklo4wmkondhfbvckn4iwzg4562e",
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Ecosystem",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-2266508852572231",
+        "name": "Ecosystem ",
+        "description": "",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -951,9 +1170,61 @@
       "type": "1.0",
       "data": {
         "name": "Ecosystem Lead",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-3955670655250618",
-        "responsibilities": [],
-        "authorities": [],
+        "description": "- The Ecosystem Lead role is focused on cultivating a highly engaged ecosystem of contributors (including community members, active contributors, and stewards) in order to create and steward the best possible organizational primitive and solution-set for roles (Hats). This will involve catalyzing the Hats ecosystem to explore and curate the vast design space of ways of using that primitive to solve real problems, and to develop sticky network effects associated with the canonical version of the protocol.\n- The primary metrics for success of this role are \n  - number and growth rate of contributor + steward hat wearers (as combined they are a reflection of all the folks who are actively contributing to the protoDAO) with a growth rate target of 40% from Seasons 1 to 2, as well as \n  - number and growth rate of community hat wearers (a reflection of the size of the reach/periphery of the protoDAO) with a growth rate target of 100% from Seasons 0 to 1 and 1 to 2. ",
+        "responsibilities": [
+          {
+            "label": "Operate the Community and protoDAO",
+            "description": "Be the lead operator of the Hats Community and protoDAO, including weaving, facilitation, and coordination",
+            "link": ""
+          },
+          {
+            "label": "Ensure protoDAO governance runs smoothly",
+            "description": "Includes protoDAO hats, elections, applications, curation processes, proposals, assessments, and GovWeek",
+            "link": "https://admin.daohaus.fun/#/molochv3/0xa/0xcf4b2e60273da3718fd16ee0d4cb176247ecc28a/proposals"
+          },
+          {
+            "label": "Facilitate protoDAO recognition system",
+            "description": "Manage the Hats Contribution Recognition System, including calculate contribution recognition in collaboration with Haberdashers and submit loot proposals to the protoDAO",
+            "link": "https://app.charmverse.io/hats-protocol/overview-how-we-track-and-award-reputation-and-voting-power-in-hats-protodao-8846396668436691",
+            "imageUrl": ""
+          },
+          {
+            "label": "Maintain protoDAO communication channels",
+            "description": "Maintain the Hats Community and protoDAO communication channels and workspaces",
+            "link": ""
+          },
+          {
+            "label": "Ensure convenings are well-designed and facilitated",
+            "description": "",
+            "link": ""
+          }
+        ],
+        "authorities": [
+          {
+            "label": "Lead design and facilitation of convenings",
+            "link": "",
+            "gate": "",
+            "description": "Lead the design and facilitation of Community and protoDAO calls and convenings"
+          },
+          {
+            "label": "Admin for Community and protoDAO communication channels",
+            "link": "",
+            "gate": "",
+            "description": ""
+          },
+          {
+            "label": "Admin for Community and protoDAO workspaces",
+            "link": "https://app.charmverse.io/hats-protocol",
+            "gate": "",
+            "description": ""
+          },
+          {
+            "label": "protoDAO Governance Facilitator",
+            "link": "",
+            "gate": "",
+            "description": "Manage protoDAO elections, applications, curation processes, proposals, assessments, and GovWeek"
+          }
+        ],
         "guilds": [],
         "spaces": [],
         "eligibility": {
@@ -987,8 +1258,70 @@
       "type": "1.0",
       "data": {
         "name": "Mechanism Design",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-03684315789513937",
+        "description": "We all design the \"game\" of the protoDAO's \"community, story, game\" together.",
         "responsibilities": [],
+        "authorities": [
+          {
+            "label": "Create and implement protoDAO mechanisms",
+            "link": "",
+            "gate": "",
+            "description": ""
+          }
+        ],
+        "guilds": [],
+        "spaces": [],
+        "eligibility": {
+          "manual": true,
+          "criteria": []
+        },
+        "toggle": {
+          "manual": true,
+          "criteria": []
+        }
+      }
+    }
+  },
+  {
+    "id": "0x0000000100030001000300000000000000000000000000000000000000000000",
+    "status": true,
+    "createdAt": 1706147091,
+    "maxSupply": 1,
+    "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "mutable": true,
+    "currentSupply": 1,
+    "wearers": [
+      "0x4e672dafb5388dec42c3e6fbe2477af1bc0ecfce"
+    ],
+    "adminId": "0x0000000100030001000000000000000000000000000000000000000000000000",
+    "imageUri": "",
+    "detailsObject": {
+      "type": "1.0",
+      "data": {
+        "name": "Ecosystem Advisor",
+        "description": "Engrain developmental culture and process into every fractal of Hats protoDAO and Haberdasher Labs",
+        "responsibilities": [
+          {
+            "label": "Design developmental process",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Advise Haberdasher Labs on developmental culture",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Advise Hats protoDAO on developmental culture",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Create containers for mutual support",
+            "description": "Accompany protoDAO Stewards in each Season, providing optional containers for mutual support",
+            "link": ""
+          }
+        ],
         "authorities": [],
         "guilds": [],
         "spaces": [],
@@ -1014,12 +1347,12 @@
     "currentSupply": 0,
     "wearers": [],
     "adminId": "0x0000000100030000000000000000000000000000000000000000000000000000",
-    "imageUri": "",
+    "imageUri": "ipfs://bafkreifmfuwv6j2rahzt7o7h3llc3ltcwu5qhua6i2sjzpb2raya7zjazi",
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Technology",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-7978917076618837",
+        "name": "Technology ",
+        "description": "",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1053,9 +1386,53 @@
       "type": "1.0",
       "data": {
         "name": "Technology Lead",
-        "description": "The Technology Lead role is focused on stewarding the Hats Protocol technology stack as well as the team(s) contributing to its development. It holds the “whole” of the tech stack and is concerned with its security, quality, capture-resistance, and strategic value. For more details see: https://app.charmverse.io/haberdasherlabs/page-7624366308265227",
-        "responsibilities": [],
-        "authorities": [],
+        "description": "- The Technology Lead role is focused on stewarding the Hats Protocol technology stack as well as the team(s) contributing to its development. It holds the “whole” of the tech stack and is concerned with its security, quality, capture-resistance, and strategic value.\n- Success for this role is measured by a subjective / fuzzy combination of problem-technology fit trajectory and building velocity, mediated by decentralization trajectory and security, for the Hats Protocol technology stack.",
+        "responsibilities": [
+          {
+            "label": "Ensure security of the Hats Protocol Stack",
+            "description": "Security: ensure that the tech stack is sufficiently resistant to attack",
+            "link": ""
+          },
+          {
+            "label": "Ensure quality of the Hats Protocol Stack",
+            "description": "Quality: ensure that the tech stack is sufficiently free of bugs",
+            "link": ""
+          },
+          {
+            "label": "Ensure decentralization of the Hats Protocol Stack",
+            "description": "Decentralization: ensure that the tech stack is sufficiently resistant to capture",
+            "link": ""
+          },
+          {
+            "label": "Facilitate productivity across the team",
+            "description": "Productivity: foster a high-velocity culture that is appropriately balanced with security, quality, and decentralization considerations",
+            "link": ""
+          },
+          {
+            "label": "Ensure composability of the Hats Protocol Stack",
+            "description": "Modularity and Composability: ensure that the tech stack is sufficiently modular and composable with other protocols and applications",
+            "link": ""
+          },
+          {
+            "label": "Orchestrate Hats Protocol Stack components",
+            "description": "Orchestration: ensure that the various components of the tech stack work well together and collectively serve the Hats ecosystem’s strategic objectives",
+            "link": ""
+          }
+        ],
+        "authorities": [
+          {
+            "label": "Drive the Hats technology roadmap",
+            "link": "",
+            "gate": "",
+            "description": "Drive the full stack technology roadmap, under advisement from Haberdashers, Strategy Lead, Product Lead, Protocol Lead, and other Technology roles."
+          },
+          {
+            "label": "Github Super-admin",
+            "link": "https://github.com/Hats-Protocol",
+            "gate": "",
+            "description": "Super-admin authority for the Hats Protocol Github organization"
+          }
+        ],
         "guilds": [],
         "spaces": [],
         "eligibility": {
@@ -1082,14 +1459,69 @@
       "0x68d36dcbdd7bbf206e27134f28103abe7cf972df"
     ],
     "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
-    "imageUri": "",
+    "imageUri": "ipfs://bafybeicay23fu3vl4k5lytvhbmdusl6no74yignxiawqvtpdbl53er6cr4",
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Front End Development Lead",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-7060003577517153",
-        "responsibilities": [],
-        "authorities": [],
+        "name": "Front-End Development Lead",
+        "description": "As a part of the product process, orchestrate building and maintaining clients for accessing Hats Protocol",
+        "responsibilities": [
+          {
+            "label": "Understand problem requirements from wearers and orgs",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Coordinate with product team",
+            "description": "Work with product team to translate into working design elements",
+            "link": ""
+          },
+          {
+            "label": "Decipher build needs",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Create and distribute build tasks",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Reproduce and diagnose pertinent issues with team and wearers",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Ensure reliability of form and function",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Coordinate with other client devs to deliver with cadence",
+            "description": "",
+            "link": ""
+          }
+        ],
+        "authorities": [
+          {
+            "label": "Maintainer on `anchor-app` repo",
+            "link": "https://github.com/Hats-Protocol/hats-anchor-app",
+            "gate": "",
+            "description": ""
+          },
+          {
+            "label": "Editor on `sdk` repos",
+            "link": "https://github.com/Hats-Protocol/sdk-v1-core",
+            "gate": "",
+            "description": ""
+          },
+          {
+            "label": "Resourcing input for client development pace",
+            "link": "",
+            "gate": "",
+            "description": ""
+          }
+        ],
         "guilds": [],
         "spaces": [],
         "eligibility": {
@@ -1116,14 +1548,48 @@
       "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c"
     ],
     "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
-    "imageUri": "",
+    "imageUri": "ipfs://bafkreidnsz3uw6n2uxmf5wojfatwlm5ri6ueexe5zizd6vdz3v76x64cxy",
     "detailsObject": {
       "type": "1.0",
       "data": {
         "name": "Integration Development Lead",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-6095063637185214",
-        "responsibilities": [],
-        "authorities": [],
+        "description": "Building and maintaining the technical infrastructure that supports integrating with and building on top of Hats Protocol. ",
+        "responsibilities": [
+          {
+            "label": "Build and maintain Hats Protocol auxiliary infrastructure",
+            "description": "Build and maintain Hats Protocol auxiliary infrastructure, including SDKs, Subgraphs and Modules. ",
+            "link": ""
+          },
+          {
+            "label": "Create and maintain the technical knowledge base",
+            "description": "Create and maintain the technical knowledge base to serve the builders ecosystem.",
+            "link": ""
+          },
+          {
+            "label": "Provide online support for developers as needed",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Research wearers needs and possible solutions",
+            "description": "Research wearers needs in various use cases and the solutions that will meet these needs.",
+            "link": ""
+          }
+        ],
+        "authorities": [
+          {
+            "label": "Maintainer permission over infrastructure repos",
+            "link": "https://github.com/Hats-Protocol/sdk-v1-core",
+            "gate": "",
+            "description": "Maintainer permission over the various infrastructure pieces that are under the role’s responsibility."
+          },
+          {
+            "label": "Drive technical architecture decisions of infrastructure",
+            "link": "",
+            "gate": "",
+            "description": "Driving technical architecture decisions of the infrastructure, in coordination with the Technology Lead hat wearer."
+          }
+        ],
         "guilds": [],
         "spaces": [],
         "eligibility": {
@@ -1150,13 +1616,29 @@
       "0x2abec368577257cee4b1197337b5491d4d9ed578"
     ],
     "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
-    "imageUri": "",
+    "imageUri": "ipfs://bafybeiaswl52qpiwtnw3ogb6q3o7dahrkf6aosvqhjld6iuuog64sgmkwy",
     "detailsObject": {
       "type": "1.0",
       "data": {
         "name": "Product Lead",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-9133580927460545",
-        "responsibilities": [],
+        "description": "Understand wearer needs and communicate them to the technology team to support delivery of a world-class product.",
+        "responsibilities": [
+          {
+            "label": "Design product experiments",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Coordinate Design and Front-end Development",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Make product announcements (with Growth)",
+            "description": "",
+            "link": ""
+          }
+        ],
         "authorities": [],
         "guilds": [],
         "spaces": [],
@@ -1189,9 +1671,48 @@
       "type": "1.0",
       "data": {
         "name": "Protocol Lead",
-        "description": "The Protocol Lead role is focused on researching, building, and maintaining the best possible manifestation of Hats Protocol and its related smart contract infrastructure. For more details see: https://app.charmverse.io/haberdasherlabs/page-28672728536452796",
-        "responsibilities": [],
-        "authorities": [],
+        "description": "- The Protocol Lead role is focused on researching, building, and maintaining the best possible manifestation of Hats Protocol and its related smart contract infrastructure.\n- Success for this role is measured by a subjective assessment of how well the protocol continues to meet the needs of its stakeholders over time.",
+        "responsibilities": [
+          {
+            "label": "Identify wearer and ecosystem problems",
+            "description": "Innovation: advance protocol functionality by finding solutions to wearers and ecosystem problems",
+            "link": ""
+          },
+          {
+            "label": "Lead Protocol development",
+            "description": "Development: build and maintain the Hats Protocol smart contract system",
+            "link": ""
+          },
+          {
+            "label": "Ensure Protocol security",
+            "description": "Security: ensure that the protocol is sufficiently resistant to attack and bug free",
+            "link": ""
+          },
+          {
+            "label": "Ensure Protocol decentralization",
+            "description": "Decentralization: ensure that the protocol itself is sufficiently resistant to capture",
+            "link": ""
+          },
+          {
+            "label": "Advocate for protocol-first orientation",
+            "description": "",
+            "link": ""
+          }
+        ],
+        "authorities": [
+          {
+            "label": "Merge authority on the Protocol Github repo",
+            "link": "https://github.com/Hats-Protocol/hats-protocol",
+            "gate": "",
+            "description": "Apply changes to the codebase (such as merging pull requests) of the in-development version of the protocol"
+          },
+          {
+            "label": "Drive the Protocol roadmap",
+            "link": "",
+            "gate": "",
+            "description": "Drive the protocol roadmap, under advisement from Haberdashers, Strategy Lead, Product Lead, and other Technology roles."
+          }
+        ],
         "guilds": [],
         "spaces": [],
         "eligibility": {
@@ -1218,13 +1739,149 @@
       "0x89bf9baaee2d451477cf850fe4c0d89bb796b1ad"
     ],
     "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
-    "imageUri": "",
+    "imageUri": "ipfs://bafybeicrueqormlmolipbyqqveifwt5goz7yqzbvhryszd3cjqt5gijif4",
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Front End Developer",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-15406644002969117",
-        "responsibilities": [],
+        "name": "Front-End Developer",
+        "description": "Ensure seamless user experiences, translating designs into front-end functionality, and integrating core product loops with the Hats App",
+        "responsibilities": [
+          {
+            "label": "Implement UI and interactions in the Hats App",
+            "description": "Develop user-friendly interfaces based on designs created by the Design Lead hat",
+            "link": ""
+          }
+        ],
+        "authorities": [
+          {
+            "label": "Editor on `anchor-app` repo",
+            "link": "https://github.com/Hats-Protocol/hats-anchor-app",
+            "gate": "",
+            "description": ""
+          }
+        ],
+        "guilds": [],
+        "spaces": [],
+        "eligibility": {
+          "manual": true,
+          "criteria": []
+        },
+        "toggle": {
+          "manual": true,
+          "criteria": []
+        }
+      }
+    }
+  },
+  {
+    "id": "0x0000000100030002000700000000000000000000000000000000000000000000",
+    "status": true,
+    "createdAt": 1706147091,
+    "maxSupply": 1,
+    "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "mutable": true,
+    "currentSupply": 0,
+    "wearers": [
+      "0xEb2ee1250DC8C954dA4efF4DF0E4467A1ca6af6c"
+    ],
+    "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
+    "imageUri": "ipfs://bafybeicgwjivhxmlvkwsvz6c6pqn5iikkthcxuuw6orhcgvxb26qyal3ii",
+    "detailsObject": {
+      "type": "1.0",
+      "data": {
+        "name": "Docs Manager",
+        "description": "- Maintainer of the Hats Protocol Docs. The Docs include both App-related and Protocol/Infra/Dev-related content, and are currently both under the responsibility of this hat.\n- The role’s general operation is to coordinate the team’s attention over the Docs, in accordance with the ongoing needs and various considerations.\n- Although this role includes the ability to delegate responsibility to people over content, its spirit is to first self-delegate, striving to minimize people’s required attention over the Docs.",
+        "responsibilities": [
+          {
+            "label": "Ensure that all parts of the Docs are synced and updated",
+            "description": "",
+            "link": "https://docs.hatsprotocol.xyz/"
+          },
+          {
+            "label": "Maintain a high level of overall content quality",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Bring team attention to the Docs",
+            "description": "Raise attention for any matter requiring a collective decision regarding the Docs",
+            "link": ""
+          },
+          {
+            "label": "Facilitate Docs decisions",
+            "description": "Facilitate the decision process and following along according to its outcome",
+            "link": ""
+          }
+        ],
+        "authorities": [
+          {
+            "label": "Docs ‘write’ permission",
+            "link": "",
+            "gate": "",
+            "description": ""
+          },
+          {
+            "label": "Ability to delegate responsibility to write / update content",
+            "link": "",
+            "gate": "",
+            "description": ""
+          }
+        ],
+        "guilds": [],
+        "spaces": [],
+        "eligibility": {
+          "manual": true,
+          "criteria": []
+        },
+        "toggle": {
+          "manual": true,
+          "criteria": []
+        }
+      }
+    }
+  },
+  {
+    "id": "0x0000000100030002000800000000000000000000000000000000000000000000",
+    "status": true,
+    "createdAt": 1706147091,
+    "maxSupply": 1,
+    "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "mutable": true,
+    "currentSupply": 1,
+    "wearers": [
+      "0x2abec368577257cee4b1197337b5491d4d9ed578"
+    ],
+    "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
+    "imageUri": "ipfs://bafybeibkfvhwoz5zeyxbxc2y724sgpsx6wesysrt6l4npem7zsa2ezasj4",
+    "detailsObject": {
+      "type": "1.0",
+      "data": {
+        "name": "Design Lead",
+        "description": "Understand user needs and produce implementable wireframes, designs, and prototypes that support the rest of the technology team in delivering solutions for real wearer challenges.",
+        "responsibilities": [
+          {
+            "label": "Conduct user interviews to identify pain points and needs",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Create wireframes for new features",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Conduct user test on prototypes and shipped features",
+            "description": "Objective of derisking product features before spending technology team time\n",
+            "link": ""
+          },
+          {
+            "label": "Create actionable designs and mock-ups",
+            "description": "",
+            "link": ""
+          }
+        ],
         "authorities": [],
         "guilds": [],
         "spaces": [],
@@ -1254,8 +1911,8 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Strategy",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-48230769194942646",
+        "name": "Strategy ",
+        "description": "",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1290,7 +1947,33 @@
       "data": {
         "name": "Strategy Lead",
         "description": "https://app.charmverse.io/haberdasherlabs/page-3308638635786372",
-        "responsibilities": [],
+        "responsibilities": [
+          {
+            "label": "Synthesis of all workstreams (holding the \"whole\")",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Coordinate HL information streams ",
+            "description": "Coordinate HL information streams, especially between Growth & Technology, Haberdasher Labs & the protoDAO, and Resourcing & Growth & Technology",
+            "link": ""
+          },
+          {
+            "label": "Create resource allocation proposals",
+            "description": "Create resource allocation proposals to be discussed by Haberdashers",
+            "link": ""
+          },
+          {
+            "label": "Recruitment of team members for HL",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Determine our target market",
+            "description": "",
+            "link": ""
+          }
+        ],
         "authorities": [],
         "guilds": [],
         "spaces": [],
@@ -1316,12 +1999,12 @@
     "currentSupply": 0,
     "wearers": [],
     "adminId": "0x0000000100030000000000000000000000000000000000000000000000000000",
-    "imageUri": "",
+    "imageUri": "ipfs://bafybeicbysptbbucscz35cb2umna34lzxidl63muox7onqxyz675nte5zi",
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Growth",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-7822037965558584",
+        "name": "Growth ",
+        "description": " ",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1345,9 +2028,9 @@
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 1,
+    "currentSupply": 0,
     "wearers": [
-      "0x2abec368577257cee4b1197337b5491d4d9ed578"
+      "0x03f7a3FD58B090Abe577651fb92Fb4789826191e"
     ],
     "adminId": "0x0000000100030004000000000000000000000000000000000000000000000000",
     "imageUri": "",
@@ -1356,7 +2039,33 @@
       "data": {
         "name": "Growth Lead",
         "description": "https://app.charmverse.io/haberdasherlabs/page-7546008944860245",
-        "responsibilities": [],
+        "responsibilities": [
+          {
+            "label": "Hold the whole of the Growth funnel",
+            "description": "Includes tracking, coordinating, and optimizing across Marketing, Sales, Implementations",
+            "link": ""
+          },
+          {
+            "label": "Track metrics related to Hats usage",
+            "description": "Including: Activated Organizations, Mainnet Hats, and funnel metrics",
+            "link": ""
+          },
+          {
+            "label": "Coordinate team to complete implementation services",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Hand off conversations to Sales Lead when they reach Phase 2",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Inform Technology team about wearer needs and requests",
+            "description": "",
+            "link": ""
+          }
+        ],
         "authorities": [],
         "guilds": [],
         "spaces": [],
@@ -1389,9 +2098,15 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Wearer Implementation",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-2908673970215192",
-        "responsibilities": [],
+        "name": "Wearer Implementations",
+        "description": "Lead the process of implementing Hats for organizations that we have engaged in a service relationship.",
+        "responsibilities": [
+          {
+            "label": "Lead our Hats implementation process for wearers",
+            "description": "See our playbook for more details",
+            "link": "https://docs.google.com/document/d/1qPTAjOZGhJXrIjqgpE5QkJkrMCQ0Ed0o0b73HIxg-e0/edit?pli=1#heading=h.f4ffsqqz78zh"
+          }
+        ],
         "authorities": [],
         "guilds": [],
         "spaces": [],
@@ -1436,11 +2151,13 @@
           },
           {
             "link": "",
-            "label": "Social media strategy & content"
+            "label": "Social media strategy and content",
+            "description": ""
           },
           {
             "link": "",
-            "label": "Website maintenance and language (w/ product)"
+            "label": "Website maintenance and language (w/ Product)",
+            "description": ""
           },
           {
             "link": "",
@@ -1448,15 +2165,18 @@
           },
           {
             "link": "",
-            "label": "Generic sales / marketing materials (w/ sales)"
+            "label": "Generic sales / marketing materials (w/ Sales)",
+            "description": ""
           },
           {
             "link": "",
-            "label": "Brand development and awareness (w/ strategy)"
+            "label": "Brand development and awareness (w/ Strategy)",
+            "description": ""
           },
           {
             "link": "",
-            "label": "PIN: Copyeditor. The Copyeditor is responsible for keeping language consistent across the Hats website, app, and docs."
+            "label": "Pin: Copy Editor",
+            "description": "The Copy Editor is responsible for keeping language consistent across the Hats website, app, and docs."
           }
         ],
         "authorities": [
@@ -1478,7 +2198,9 @@
           },
           {
             "link": "https://app.charmverse.io/haberdasherlabs/page-48057361337480353",
-            "label": "PIN: Social Media Posting. The Social Media Posting Pin gives the holder the responsibility of drafting and queueing social media posts for publication and the authority to post to social media (X, Typefully, Warpcast) on the team’s behalf, per the guidelines found in the link."
+            "label": "Pin: Social Media Posting",
+            "description": "The Social Media Posting Pin gives the holder the responsibility of drafting and queuing social media posts for publication and the authority to post to social media (X, Typefully, Warpcast) on the team’s behalf, per the guidelines found in the link.",
+            "gate": ""
           }
         ],
         "guilds": [],
@@ -1516,39 +2238,48 @@
         "responsibilities": [
           {
             "link": "",
-            "label": "Identify and initiate connections with high-value potential partnerships"
+            "label": "Initiate connections with potential partners",
+            "description": "Identify and initiate connections with high-value potential partnerships"
           },
           {
             "link": "",
-            "label": "Identify when potential partnership ROI is too low to justify ongoing effort"
+            "label": "Determine potential partnership ROI",
+            "description": "Including identifying when potential partnership ROI is too low to justify ongoing effort"
           },
           {
             "link": "",
-            "label": "Coordinate with the Strategy Lead and/or Growth Lead on negotiations with potential partners"
+            "label": "Coordinate with Strategy Lead on partnership negotiations",
+            "description": "Coordinate with the Strategy Lead on negotiations with potential partners"
           },
           {
             "link": "",
-            "label": "Coordinate with the Wearer Implementation hat to source beta wearers for partnership-drive integrations"
+            "label": "Source beta wearers for new integrations",
+            "description": "Coordinate with the Wearer Implementation hat to source beta wearers for partnership-driven integrations"
           },
           {
             "link": "",
-            "label": "Lead relationships with potential and current technical partners to drive integrations to successful completion"
+            "label": "Drive integrations to successful completion",
+            "description": "Lead relationships with potential and current technical partners to drive integrations to successful completion"
           },
           {
             "link": "",
-            "label": "Coordinate with the Marketing Lead to communicate new partnerships"
+            "label": "Announce new partnerships (w/ Marketing)",
+            "description": "Coordinate with the Marketing Lead to communicate new partnerships"
           },
           {
             "link": "",
-            "label": "Coordinate with the Integration Development Lead to build technology (especially common infrastructure) necessary for partner integrations"
+            "label": "Facilitate Technology team contributions to deliver integrations",
+            "description": "Coordinate with the Integration Development Lead to build technology (especially common infrastructure) necessary for partner integrations"
           },
           {
             "link": "",
-            "label": "Keep the Growth, Marketing, and Technology branches up to date on partnership status"
+            "label": "Update HL about partnership statuses",
+            "description": "Keep the Growth, Marketing, and Technology branches up to date on partnership status"
           },
           {
             "link": "",
-            "label": "Coordinate with the Ecosystem Lead to identify opportunities to engage technical partners more deeply in the community and/or protoDAO"
+            "label": "Get technical partners engaged in the Hats ecosystem",
+            "description": "Coordinate with the Ecosystem Lead to identify opportunities to engage technical partners more deeply in the community and/or protoDAO"
           }
         ],
         "authorities": [
@@ -1561,6 +2292,61 @@
             "label": "Maintain code repositories related to integrations with technical partners"
           }
         ],
+        "guilds": [],
+        "spaces": [],
+        "eligibility": {
+          "manual": true,
+          "criteria": []
+        },
+        "toggle": {
+          "manual": true,
+          "criteria": []
+        }
+      }
+    }
+  },
+  {
+    "id": "0x0000000100030004000700000000000000000000000000000000000000000000",
+    "status": true,
+    "createdAt": 1706147091,
+    "maxSupply": 1,
+    "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "mutable": true,
+    "currentSupply": 1,
+    "wearers": [
+      "0x2abec368577257cee4b1197337b5491d4d9ed578"
+    ],
+    "adminId": "0x0000000100030004000000000000000000000000000000000000000000000000",
+    "imageUri": "",
+    "detailsObject": {
+      "type": "1.0",
+      "data": {
+        "name": "Sales Lead",
+        "description": "",
+        "responsibilities": [
+          {
+            "label": "Serve as contact for large paid implementation services",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Coordinate with Marketing Lead on deal handoffs",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Coordinate with Technology team for project fulfillment",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Architect pitches",
+            "description": "",
+            "link": ""
+          }
+        ],
+        "authorities": [],
         "guilds": [],
         "spaces": [],
         "eligibility": {
@@ -1589,8 +2375,8 @@
     "detailsObject": {
       "type": "1.0",
       "data": {
-        "name": "Resourcing",
-        "description": "https://app.charmverse.io/haberdasherlabs/page-7442038976354328",
+        "name": "Resourcing ",
+        "description": "",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1625,7 +2411,23 @@
       "data": {
         "name": "Resourcing Lead",
         "description": "https://app.charmverse.io/haberdasherlabs/page-4028881227909913",
-        "responsibilities": [],
+        "responsibilities": [
+          {
+            "label": "Raise funds",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Send email updates to investors",
+            "description": "",
+            "link": ""
+          },
+          {
+            "label": "Architect pitches",
+            "description": "",
+            "link": ""
+          }
+        ],
         "authorities": [],
         "guilds": [],
         "spaces": [],
