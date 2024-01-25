@@ -953,7 +953,7 @@
       "type": "1.0",
       "data": {
         "name": "Ecosystem",
-        "description": "No description",
+        "description": "",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1169,7 +1169,7 @@
       "type": "1.0",
       "data": {
         "name": "Technology",
-        "description": "No description",
+        "description": "",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1727,7 +1727,7 @@
       "type": "1.0",
       "data": {
         "name": "Strategy",
-        "description": "No description",
+        "description": "",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1761,7 +1761,7 @@
       "type": "1.0",
       "data": {
         "name": "Strategy Lead",
-        "description": "No description",
+        "description": "",
         "responsibilities": [
           {
             "label": "Synthesis of all workstreams (holding the \"whole\")",
@@ -1819,7 +1819,7 @@
       "type": "1.0",
       "data": {
         "name": "Growth",
-        "description": "No description",
+        "description": "",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1853,7 +1853,7 @@
       "type": "1.0",
       "data": {
         "name": "Growth Lead",
-        "description": "No description",
+        "description": "",
         "responsibilities": [
           {
             "label": "Hold the whole of the Growth funnel",
@@ -2138,7 +2138,7 @@
       "type": "1.0",
       "data": {
         "name": "Sales Lead",
-        "description": "No description",
+        "description": "",
         "responsibilities": [
           {
             "label": "Serve as contact for large paid implementation services",
@@ -2191,7 +2191,7 @@
       "type": "1.0",
       "data": {
         "name": "Resourcing",
-        "description": "No description",
+        "description": "",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -2225,7 +2225,7 @@
       "type": "1.0",
       "data": {
         "name": "Resourcing Lead",
-        "description": "No description",
+        "description": "",
         "responsibilities": [
           {
             "label": "Raise funds",
