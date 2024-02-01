@@ -248,7 +248,7 @@
     "eligibility": "0xd0929e6ae5406cbee08604de99f83cf2ce52d903",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 188,
+    "currentSupply": 192,
     "wearers": [
       "0x0040daac32d83c78546ae36da42a496b28ab09e1",
       "0x0109c7e6604b96af83ca272bcf84645ed29e7154",
@@ -287,6 +287,7 @@
       "0x224aba5d489675a7bd3ce07786fada466b46fa0f",
       "0x23db246031fd6f4e81b0814e9c1dc0901a18da2d",
       "0x2487fc7e019860afbfc7fb16689e421843c777e2",
+      "0x25910143c255828f623786f46fe9a8941b7983bb",
       "0x26250d5b0265a9df5f59b9086cab1095254d38b1",
       "0x26e3a9c84fdb9b7fe33dfd5e8d273d016e4e4fb6",
       "0x27773b203954fbbb3e98dfa1a85a99e1c2f40f56",
@@ -342,14 +343,13 @@
       "0x6e9f7cb201ae183fa2034141433f81043b822f22",
       "0x6fe0eca16b70b7e7637d0678254267ff32ea25d9",
       "0x703fbd74399f71103604e3c7ea9f54cbb43f718a",
+      "0x714d8b5874b3a6a69f289f4e857f4c9670074296",
       "0x721ba19c32051fd8e851a74958c52936516c7fdc",
       "0x7234c36a71ec237c2ae7698e8916e0735001e9af",
       "0x73186b2a81952c2340c4eb2e74e89869e1183df0",
       "0x73f9f9a07b14a7018008e05d129f02729131a16a",
       "0x751077dfd4942aa28985baa850f4c648d241c863",
-      "0x759bace429553bca40645da3283de1a105531b11",
-      "0x77b175d193a19378031f4a81393fc0cbd5cf4079",
-      "0x77c9e49073d9830723195f3788570c2c36c97688"
+      "0x759bace429553bca40645da3283de1a105531b11"
     ],
     "adminId": "0x0000000100020001000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafybeigonoruew55ypwpewcf33ikkvcq72abdwjrtbkey3kbjwp7y3yzxy",
@@ -691,6 +691,82 @@
         },
         "toggle": {
           "manual": false,
+          "criteria": []
+        }
+      }
+    }
+  },
+  {
+    "id": "0x0000000100020002000000000000000000000000000000000000000000000000",
+    "status": false,
+    "createdAt": 1689095689,
+    "maxSupply": 1000,
+    "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "mutable": true,
+    "currentSupply": 11,
+    "wearers": [
+      "0x018e494352a3e68e16d03ed976fd64134bd82e72",
+      "0x03f7a3fd58b090abe577651fb92fb4789826191e",
+      "0x1b2c142ae4b9c72d2b8957079563d171b7f72892",
+      "0x26e3a9c84fdb9b7fe33dfd5e8d273d016e4e4fb6",
+      "0x2abec368577257cee4b1197337b5491d4d9ed578",
+      "0x3fad8bcd2aea732d02a203c156b19205253f2a06",
+      "0x68d36dcbdd7bbf206e27134f28103abe7cf972df",
+      "0x89bf9baaee2d451477cf850fe4c0d89bb796b1ad",
+      "0xc69549d1e95b6b9721e07a848a30efbe4b7ee359",
+      "0xca85c622d4c61047f96e352cb919695486a193e6",
+      "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c"
+    ],
+    "adminId": "0x0000000100020000000000000000000000000000000000000000000000000000",
+    "imageUri": "ipfs://bafkreifiqku5sgqehowiqzcatajvrj5fulmoand3pfh4rnlxccoqahh26a",
+    "detailsObject": {
+      "type": "1.0",
+      "data": {
+        "name": "Hats Alpha Tester",
+        "description": "This hat is reserved to provide Hats alpha testers with early access to workspaces or content where feedback is requested",
+        "responsibilities": [],
+        "authorities": [],
+        "guilds": [],
+        "spaces": [],
+        "eligibility": {
+          "manual": true,
+          "criteria": []
+        },
+        "toggle": {
+          "manual": true,
+          "criteria": []
+        }
+      }
+    }
+  },
+  {
+    "id": "0x0000000100020003000000000000000000000000000000000000000000000000",
+    "status": false,
+    "createdAt": 1689095689,
+    "maxSupply": 50,
+    "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "mutable": true,
+    "currentSupply": 0,
+    "wearers": [],
+    "adminId": "0x0000000100020000000000000000000000000000000000000000000000000000",
+    "imageUri": "ipfs://bafkreif4ajdvp5wetmh74scfitxusml6vnae7jx4epreva3cpdyfn6xttq",
+    "detailsObject": {
+      "type": "1.0",
+      "data": {
+        "name": "New Hat",
+        "description": "No description",
+        "responsibilities": [],
+        "authorities": [],
+        "guilds": [],
+        "spaces": [],
+        "eligibility": {
+          "manual": true,
+          "criteria": []
+        },
+        "toggle": {
+          "manual": true,
           "criteria": []
         }
       }
@@ -1136,7 +1212,7 @@
       "type": "1.0",
       "data": {
         "name": "Ecosystem ",
-        "description": "",
+        "description": "https://app.charmverse.io/haberdasherlabs/page-2266508852572231",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1352,7 +1428,7 @@
       "type": "1.0",
       "data": {
         "name": "Technology ",
-        "description": "",
+        "description": "https://app.charmverse.io/haberdasherlabs/page-7978917076618837",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -1781,9 +1857,9 @@
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 0,
+    "currentSupply": 1,
     "wearers": [
-      "0xEb2ee1250DC8C954dA4efF4DF0E4467A1ca6af6c"
+      "0xeb2ee1250dc8c954da4eff4df0e4467a1ca6af6c"
     ],
     "adminId": "0x0000000100030002000000000000000000000000000000000000000000000000",
     "imageUri": "ipfs://bafybeicgwjivhxmlvkwsvz6c6pqn5iikkthcxuuw6orhcgvxb26qyal3ii",
@@ -1912,7 +1988,7 @@
       "type": "1.0",
       "data": {
         "name": "Strategy ",
-        "description": "",
+        "description": "https://app.charmverse.io/haberdasherlabs/page-48230769194942646",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
@@ -2028,9 +2104,9 @@
     "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
     "mutable": true,
-    "currentSupply": 0,
+    "currentSupply": 1,
     "wearers": [
-      "0x03f7a3FD58B090Abe577651fb92Fb4789826191e"
+      "0x03f7a3fd58b090abe577651fb92fb4789826191e"
     ],
     "adminId": "0x0000000100030004000000000000000000000000000000000000000000000000",
     "imageUri": "",
@@ -2107,6 +2183,72 @@
             "link": "https://docs.google.com/document/d/1qPTAjOZGhJXrIjqgpE5QkJkrMCQ0Ed0o0b73HIxg-e0/edit?pli=1#heading=h.f4ffsqqz78zh"
           }
         ],
+        "authorities": [],
+        "guilds": [],
+        "spaces": [],
+        "eligibility": {
+          "manual": true,
+          "criteria": []
+        },
+        "toggle": {
+          "manual": true,
+          "criteria": []
+        }
+      }
+    }
+  },
+  {
+    "id": "0x0000000100030004000300000000000000000000000000000000000000000000",
+    "status": false,
+    "createdAt": 1689095689,
+    "maxSupply": 1,
+    "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "mutable": true,
+    "currentSupply": 1,
+    "wearers": [
+      "0xc69549d1e95b6b9721e07a848a30efbe4b7ee359"
+    ],
+    "adminId": "0x0000000100030004000000000000000000000000000000000000000000000000",
+    "imageUri": "",
+    "detailsObject": {
+      "type": "1.0",
+      "data": {
+        "name": "Launch Strategy ",
+        "description": "https://app.charmverse.io/haberdasherlabs/page-019399047459006002",
+        "responsibilities": [],
+        "authorities": [],
+        "guilds": [],
+        "spaces": [],
+        "eligibility": {
+          "manual": true,
+          "criteria": []
+        },
+        "toggle": {
+          "manual": true,
+          "criteria": []
+        }
+      }
+    }
+  },
+  {
+    "id": "0x0000000100030004000400000000000000000000000000000000000000000000",
+    "status": false,
+    "createdAt": 1689095689,
+    "maxSupply": 5,
+    "eligibility": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "toggle": "0x58c8854a8e51bdce9f00726b966905fe2719b4d9",
+    "mutable": true,
+    "currentSupply": 0,
+    "wearers": [],
+    "adminId": "0x0000000100030004000000000000000000000000000000000000000000000000",
+    "imageUri": "",
+    "detailsObject": {
+      "type": "1.0",
+      "data": {
+        "name": "Communications & Content ",
+        "description": "https://app.charmverse.io/haberdasherlabs/page-16574642112074867",
+        "responsibilities": [],
         "authorities": [],
         "guilds": [],
         "spaces": [],
@@ -2361,6 +2503,59 @@
     }
   },
   {
+    "id": "0x0000000100030004000800000000000000000000000000000000000000000000",
+    "status": true,
+    "createdAt": null,
+    "maxSupply": 6,
+    "eligibility": "0x58C8854a8E51BdCE9F00726B966905FE2719B4D9",
+    "toggle": "0x58C8854a8E51BdCE9F00726B966905FE2719B4D9",
+    "mutable": true,
+    "currentSupply": 0,
+    "wearers": [
+      "0x018e494352a3E68e16d03ed976Fd64134bd82E72",
+      "0x2aBEc368577257cEE4B1197337B5491D4D9ed578",
+      "0x03f7a3FD58B090Abe577651fb92Fb4789826191e",
+      "0x68d36DcBDD7Bbf206e27134F28103abE7cf972df",
+      "0xEb2ee1250DC8C954dA4efF4DF0E4467A1ca6af6c",
+      "0x89bf9BAaeE2d451477CF850fE4c0d89bb796B1aD"
+    ],
+    "adminId": "0x0000000100030004000000000000000000000000000000000000000000000000",
+    "imageUri": "",
+    "detailsObject": {
+      "type": "1.0",
+      "data": {
+        "name": "hats_intern Caster",
+        "description": "This role can cast on behalf of the shared hats_intern Farcaster account",
+        "responsibilities": [
+          {
+            "label": "Do gud casts",
+            "description": "Cast fun and interesting things about Hats Protocol",
+            "link": ""
+          }
+        ],
+        "authorities": [
+          {
+            "label": "Casting permissions",
+            "description": "Send casts on behalf of the hats_intern Farcaster account",
+            "link": "https://app.herocast.xyz/",
+            "gate": "",
+            "imageUrl": "ipfs://bafkreiefed24bqwvqrsco3egcsbql4wjcbebuj5mjgoz2hqm6jmnrto7fm"
+          }
+        ],
+        "guilds": [],
+        "spaces": [],
+        "eligibility": {
+          "manual": true,
+          "criteria": []
+        },
+        "toggle": {
+          "manual": true,
+          "criteria": []
+        }
+      }
+    }
+  },
+  {
     "id": "0x0000000100030005000000000000000000000000000000000000000000000000",
     "status": true,
     "createdAt": 1689095689,
@@ -2376,7 +2571,7 @@
       "type": "1.0",
       "data": {
         "name": "Resourcing ",
-        "description": "",
+        "description": "https://app.charmverse.io/haberdasherlabs/page-7442038976354328",
         "responsibilities": [],
         "authorities": [],
         "guilds": [],
